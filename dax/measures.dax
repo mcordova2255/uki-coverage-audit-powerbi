@@ -1,0 +1,164 @@
+// UKI_Coverage_Audit.pbix, all measures, grouped by home table.
+// Expected values are on the full generated data with no filters applied.
+// Create each measure on the table named in the heading.
+
+// ===================================================== Accounts
+Total accounts = COUNTROWS ( Accounts )
+    // 400
+
+Defect accounts = CALCULATE ( COUNTROWS ( Accounts ), Accounts[health] = "Defect" )
+    // 170
+
+Defect rate = DIVIDE ( [Defect accounts], [Total accounts] )
+    // 42.5%
+
+Total TAM = SUM ( Accounts[estimated_tam] )
+    // 10,613,100
+
+TAM at risk = SUM ( Accounts[tam_at_risk] )
+    // 2,968,000
+
+% TAM at risk = DIVIDE ( [TAM at risk], [Total TAM] )
+    // 28.0%
+
+High severity TAM = CALCULATE ( [TAM at risk], Accounts[issue_severity] = "High" )
+    // 1,469,800
+
+Clean TAM = [Total TAM] - [TAM at risk]
+    // 7,645,100
+
+Accounts with active bid = CALCULATE ( COUNTROWS ( Accounts ), Accounts[active_bid] = "Yes" )
+    // 119
+
+Misaligned with active bid =
+    CALCULATE (
+        COUNTROWS ( Accounts ),
+        Accounts[active_bid] = "Yes",
+        Accounts[health] = "Defect"
+    )
+    // 48, of which 21 are High severity. Live deals sitting on a record with a defect: the number a sales manager asks about first.
+
+TAM released by fixing High =
+    CALCULATE ( [TAM at risk], Accounts[issue_severity] = "High", Accounts[active_bid] = "Yes" )
+    // 387,900
+
+// ===================================================== Reps
+Reps affected = COUNTROWS ( Reps )
+    // 12
+
+Net TAM correction = SUM ( Reps[tam_delta] )
+    // -210,700
+
+Net quota correction = SUM ( Reps[quota_delta] )
+    // -50,500
+
+Reps decreasing = CALCULATE ( COUNTROWS ( Reps ), Reps[direction] = "Decrease" )
+    // 7
+
+Reps increasing = CALCULATE ( COUNTROWS ( Reps ), Reps[direction] = "Increase" )
+    // 5
+
+Largest single correction = MINX ( Reps, Reps[tam_delta] )
+    // -125,800
+
+Opening TAM = SUM ( Reps[current_tam] )
+    // 10,613,100
+
+Closing TAM = SUM ( Reps[corrected_tam] )
+    // 10,402,400
+
+// ===================================================== Movements
+Corrections = CALCULATE ( SUM ( Movements[amount] ), Movements[movement_type] = "Correction" )
+    // -1,038,700. Data fixes: wrong parent, closed entity, duplicate.
+
+Reforecast = CALCULATE ( SUM ( Movements[amount] ), Movements[movement_type] = "Reforecast" )
+    // 828,000. Real change: headcount moved in the filings.
+
+Net movement = SUM ( Movements[amount] )
+    // -210,700
+
+Reconciled closing = [Opening TAM] + [Net movement]
+    // 10,402,400
+
+Variance to closing = [Reconciled closing] - [Closing TAM]
+    // 0, for every rep and in total
+
+Tie-out = IF ( ABS ( [Variance to closing] ) < 1, "Reconciled", "BREAK" )
+    // Reconciled
+
+// ===================================================== Cases
+Cases opened = COUNTROWS ( 'Cases' )
+    // 260
+
+Open cases =
+    CALCULATE (
+        COUNTROWS ( 'Cases' ),
+        'Cases'[implementation_status] IN { "Submitted", "Approved", "Delayed" }
+    )
+    // 163
+
+Closed or implemented =
+    CALCULATE (
+        COUNTROWS ( 'Cases' ),
+        'Cases'[implementation_status] IN { "Implemented", "Closed" }
+    )
+    // 97
+
+Stalled cases = CALCULATE ( COUNTROWS ( 'Cases' ), 'Cases'[is_stalled] = "Stalled" )
+    // 96
+
+Stalled rate = DIVIDE ( [Stalled cases], [Cases opened] )
+    // 36.9%
+
+Avg days open = AVERAGE ( 'Cases'[days_open] )
+    // 53
+
+Oldest open case =
+    CALCULATE (
+        MAX ( 'Cases'[days_open] ),
+        'Cases'[implementation_status] IN { "Submitted", "Approved", "Delayed" }
+    )
+    // 139
+
+// ===================================================== Forecast
+Forecast revenue = SUM ( Forecast[forecast_revenue] )
+    // 22,843,250 with Benelux W08 missing; 23,151,850 once it arrives
+
+Submissions received = COUNTROWS ( SUMMARIZE ( Forecast, Forecast[market], Forecast[fiscal_week] ) )
+    // 47 of 48
+
+Negative lines = CALCULATE ( COUNTROWS ( Forecast ), Forecast[forecast_units] < 0 )
+    // 1 (France, W06, Workstation Displays)
+
+Markets submitted W08 = CALCULATE ( DISTINCTCOUNT ( Forecast[market] ), Forecast[fiscal_week] = "W08" )
+    // 5
+
+// ===================================================== Plan
+Plan revenue = SUM ( Plan[plan_revenue] )
+    // 23,765,600
+
+Submissions expected = COUNTROWS ( Plan )
+    // 48
+
+Markets expected = DISTINCTCOUNT ( Plan[market] )
+    // 6
+
+Gap to plan = [Forecast revenue] - [Plan revenue]
+    // -922,350
+
+% of plan = DIVIDE ( [Forecast revenue], [Plan revenue] )
+    // 96.1%
+
+Missing submissions = [Submissions expected] - [Submissions received]
+    // 1
+
+Completeness W08 = [Markets submitted W08] & " of " & [Markets expected]
+    // "5 of 6"
+
+Validation status = IF ( [Missing submissions] = 0 && [Negative lines] = 0, "Ready to submit", "HOLD" )
+    // HOLD. Stays HOLD after the late file arrives, because the negative line is still open.
+
+// Formatting used in the report:
+//   money measures: whole number with thousands separator; cards show Millions, 2 decimals
+//   percentages:    1 decimal place
+//   counts:         whole number

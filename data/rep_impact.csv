@@ -1,0 +1,13 @@
+rep_id,rep_name,team,role_type,current_tam,corrected_tam,tam_delta,tam_delta_pct,current_quota,corrected_quota,quota_delta,direction
+R01,Aisha Khan,Inside,Inside Sales Rep,595400,574000,-21400,-0.0359,190500,185400,-5100,Decrease
+R02,Chloe Evans,Field,Field Sales Rep,541400,552800,11400,0.0211,173200,175900,2700,Increase
+R03,Daniel Brooks,Field,Field Sales Rep,2028600,1902800,-125800,-0.062,649200,619100,-30100,Decrease
+R04,Hannah Cole,Inside,Inside Sales Rep,557400,549600,-7800,-0.014,178400,176500,-1900,Decrease
+R05,Jamie Patel,Field,Field Sales Rep,778900,831100,52200,0.067,249200,261700,12500,Increase
+R06,Laura Bennett,Field,Field Sales Rep,1188900,1159200,-29700,-0.025,380400,373300,-7100,Decrease
+R07,Marcus Flynn,Inside,Inside Sales Rep,556100,529400,-26700,-0.048,178000,171600,-6400,Decrease
+R08,Megan Walsh,Inside,Inside Sales Rep,748400,693000,-55400,-0.074,239500,226200,-13300,Decrease
+R09,Oliver Grant,Inside,Inside Sales Rep,590600,642600,52000,0.088,189000,201500,12500,Increase
+R10,Priya Shah,Field,Field Sales Rep,1366100,1241800,-124300,-0.091,437200,407400,-29800,Decrease
+R11,Ryan Cooper,Inside,Inside Sales Rep,623000,653500,30500,0.049,199400,206700,7300,Increase
+R12,Sophie Reed,Field,Field Sales Rep,1038300,1072600,34300,0.033,332300,340500,8200,Increase

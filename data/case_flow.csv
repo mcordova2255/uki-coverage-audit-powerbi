@@ -1,0 +1,261 @@
+case_id,account_id,vertical,issue_type,owning_team,implementation_status,is_stalled,days_open,date_opened,month_opened
+C0001,A0055,Public Sector,Closed Entity,Master Data,Implemented,Moving,40,2026-08-16,2026-08-01
+C0002,A0066,Public Sector,Active Bid Misaligned,Sales Operations,Implemented,Moving,68,2026-07-19,2026-07-01
+C0003,A0153,Education,Active Bid Misaligned,Master Data,Implemented,Moving,13,2026-09-12,2026-09-01
+C0004,A0155,Financial & Retail,Wrong Parent,Master Data,Approved,Stalled,123,2026-05-25,2026-05-01
+C0005,A0134,Financial & Retail,Duplicate Ownership,Business Analyst,Delayed,Moving,6,2026-09-19,2026-09-01
+C0006,A0170,Education,Duplicate Ownership,Sales Operations,Submitted,Moving,2,2026-09-23,2026-09-01
+C0007,A0113,Education,Duplicate Ownership,Market Approver,Submitted,Stalled,134,2026-05-14,2026-05-01
+C0008,A0116,Education,Orphan Account,Business Analyst,Closed,Moving,84,2026-07-03,2026-07-01
+C0009,A0086,Public Sector,Active Bid Misaligned,Market Approver,Delayed,Stalled,76,2026-07-11,2026-07-01
+C0010,A0164,Financial & Retail,Wrong Parent,Market Approver,Approved,Moving,8,2026-09-17,2026-09-01
+C0011,A0061,Public Sector,Missing Organization,Market Approver,Submitted,Stalled,76,2026-07-11,2026-07-01
+C0012,A0100,Financial & Retail,Missing Organization,Business Analyst,Submitted,Moving,1,2026-09-24,2026-09-01
+C0013,A0024,Financial & Retail,Closed Entity,Sales Operations,Delayed,Stalled,58,2026-07-29,2026-07-01
+C0014,A0146,Financial & Retail,Orphan Account,Business Analyst,Implemented,Moving,66,2026-07-21,2026-07-01
+C0015,A0065,Financial & Retail,Orphan Account,Business Analyst,Submitted,Stalled,137,2026-05-11,2026-05-01
+C0016,A0137,Education,Orphan Account,Master Data,Closed,Moving,65,2026-07-22,2026-07-01
+C0017,A0101,Education,Territory Misalignment,Business Analyst,Delayed,Stalled,78,2026-07-09,2026-07-01
+C0018,A0033,Education,Closed Entity,Business Analyst,Delayed,Stalled,45,2026-08-11,2026-08-01
+C0019,A0064,Financial & Retail,Wrong Parent,Business Analyst,Closed,Moving,14,2026-09-11,2026-09-01
+C0020,A0038,Financial & Retail,Orphan Account,Master Data,Closed,Moving,58,2026-07-29,2026-07-01
+C0021,A0162,Education,Orphan Account,Market Approver,Delayed,Moving,3,2026-09-22,2026-09-01
+C0022,A0029,Financial & Retail,Missing Organization,Master Data,Submitted,Stalled,60,2026-07-27,2026-07-01
+C0023,A0130,Education,Orphan Account,Master Data,Approved,Stalled,44,2026-08-12,2026-08-01
+C0024,A0057,Education,Wrong Segment,Sales Operations,Submitted,Stalled,127,2026-05-21,2026-05-01
+C0025,A0002,Financial & Retail,Duplicate Ownership,Master Data,Submitted,Stalled,64,2026-07-23,2026-07-01
+C0026,A0047,Education,Territory Misalignment,Master Data,Implemented,Moving,86,2026-07-01,2026-07-01
+C0027,A0110,Financial & Retail,Orphan Account,Sales Operations,Closed,Moving,65,2026-07-22,2026-07-01
+C0028,A0139,Financial & Retail,Duplicate Ownership,Business Analyst,Approved,Stalled,65,2026-07-22,2026-07-01
+C0029,A0150,Financial & Retail,Territory Misalignment,Business Analyst,Closed,Moving,55,2026-08-01,2026-08-01
+C0030,A0073,Education,Closed Entity,Business Analyst,Implemented,Moving,66,2026-07-21,2026-07-01
+C0031,A0152,Education,Territory Misalignment,Market Approver,Delayed,Moving,18,2026-09-07,2026-09-01
+C0032,A0143,Education,Wrong Segment,Business Analyst,Closed,Moving,87,2026-06-30,2026-06-01
+C0033,A0037,Financial & Retail,Duplicate Ownership,Business Analyst,Implemented,Moving,61,2026-07-26,2026-07-01
+C0034,A0049,Education,Duplicate Ownership,Sales Operations,Implemented,Moving,12,2026-09-13,2026-09-01
+C0035,A0159,Financial & Retail,Territory Misalignment,Market Approver,Submitted,Stalled,107,2026-06-10,2026-06-01
+C0036,A0160,Education,Duplicate Ownership,Sales Operations,Submitted,Stalled,68,2026-07-19,2026-07-01
+C0037,A0125,Financial & Retail,Territory Misalignment,Sales Operations,Submitted,Moving,19,2026-09-06,2026-09-01
+C0038,A0157,Public Sector,Duplicate Ownership,Market Approver,Closed,Moving,11,2026-09-14,2026-09-01
+C0039,A0129,Financial & Retail,Territory Misalignment,Business Analyst,Delayed,Stalled,39,2026-08-17,2026-08-01
+C0040,A0044,Financial & Retail,Territory Misalignment,Business Analyst,Approved,Moving,18,2026-09-07,2026-09-01
+C0041,A0039,Financial & Retail,Closed Entity,Business Analyst,Approved,Stalled,98,2026-06-19,2026-06-01
+C0042,A0113,Education,Duplicate Ownership,Market Approver,Implemented,Moving,73,2026-07-14,2026-07-01
+C0043,A0025,Public Sector,Territory Misalignment,Master Data,Delayed,Moving,5,2026-09-20,2026-09-01
+C0044,A0131,Financial & Retail,Duplicate Ownership,Market Approver,Delayed,Stalled,49,2026-08-07,2026-08-01
+C0045,A0112,Public Sector,Wrong Parent,Sales Operations,Approved,Stalled,76,2026-07-11,2026-07-01
+C0046,A0135,Public Sector,Active Bid Misaligned,Sales Operations,Submitted,Stalled,56,2026-07-31,2026-07-01
+C0047,A0120,Public Sector,Closed Entity,Business Analyst,Approved,Stalled,112,2026-06-05,2026-06-01
+C0048,A0079,Financial & Retail,Closed Entity,Master Data,Approved,Stalled,123,2026-05-25,2026-05-01
+C0049,A0098,Education,Wrong Parent,Master Data,Approved,Stalled,118,2026-05-30,2026-05-01
+C0050,A0007,Financial & Retail,Missing Organization,Sales Operations,Submitted,Stalled,86,2026-07-01,2026-07-01
+C0051,A0132,Financial & Retail,Orphan Account,Market Approver,Closed,Moving,52,2026-08-04,2026-08-01
+C0052,A0062,Public Sector,Active Bid Misaligned,Sales Operations,Implemented,Moving,83,2026-07-04,2026-07-01
+C0053,A0056,Financial & Retail,Wrong Segment,Market Approver,Implemented,Moving,29,2026-08-27,2026-08-01
+C0054,A0067,Public Sector,Duplicate Ownership,Business Analyst,Closed,Moving,51,2026-08-05,2026-08-01
+C0055,A0018,Public Sector,Wrong Parent,Master Data,Delayed,Moving,9,2026-09-16,2026-09-01
+C0056,A0121,Financial & Retail,Closed Entity,Market Approver,Implemented,Moving,41,2026-08-15,2026-08-01
+C0057,A0117,Education,Orphan Account,Master Data,Implemented,Moving,18,2026-09-07,2026-09-01
+C0058,A0148,Financial & Retail,Territory Misalignment,Market Approver,Delayed,Stalled,31,2026-08-25,2026-08-01
+C0059,A0068,Education,Active Bid Misaligned,Market Approver,Delayed,Moving,7,2026-09-18,2026-09-01
+C0060,A0084,Financial & Retail,Closed Entity,Market Approver,Approved,Moving,6,2026-09-19,2026-09-01
+C0061,A0012,Public Sector,Duplicate Ownership,Business Analyst,Implemented,Moving,66,2026-07-21,2026-07-01
+C0062,A0045,Education,Orphan Account,Business Analyst,Approved,Moving,2,2026-09-23,2026-09-01
+C0063,A0168,Public Sector,Territory Misalignment,Master Data,Closed,Moving,62,2026-07-25,2026-07-01
+C0064,A0158,Education,Wrong Parent,Market Approver,Submitted,Stalled,106,2026-06-11,2026-06-01
+C0065,A0011,Public Sector,Wrong Parent,Market Approver,Submitted,Stalled,42,2026-08-14,2026-08-01
+C0066,A0020,Public Sector,Orphan Account,Business Analyst,Delayed,Stalled,102,2026-06-15,2026-06-01
+C0067,A0079,Financial & Retail,Closed Entity,Sales Operations,Approved,Moving,15,2026-09-10,2026-09-01
+C0068,A0039,Financial & Retail,Closed Entity,Sales Operations,Implemented,Moving,80,2026-07-07,2026-07-01
+C0069,A0164,Financial & Retail,Wrong Parent,Market Approver,Approved,Stalled,125,2026-05-23,2026-05-01
+C0070,A0078,Public Sector,Wrong Parent,Market Approver,Implemented,Moving,11,2026-09-14,2026-09-01
+C0071,A0103,Financial & Retail,Active Bid Misaligned,Sales Operations,Delayed,Stalled,32,2026-08-24,2026-08-01
+C0072,A0123,Education,Wrong Segment,Business Analyst,Submitted,Stalled,68,2026-07-19,2026-07-01
+C0073,A0114,Public Sector,Wrong Parent,Sales Operations,Delayed,Stalled,127,2026-05-21,2026-05-01
+C0074,A0109,Education,Duplicate Ownership,Business Analyst,Submitted,Moving,20,2026-09-05,2026-09-01
+C0075,A0161,Education,Wrong Parent,Master Data,Submitted,Stalled,101,2026-06-16,2026-06-01
+C0076,A0083,Financial & Retail,Wrong Parent,Master Data,Delayed,Moving,11,2026-09-14,2026-09-01
+C0077,A0033,Education,Closed Entity,Sales Operations,Approved,Stalled,47,2026-08-09,2026-08-01
+C0078,A0055,Public Sector,Closed Entity,Market Approver,Implemented,Moving,28,2026-08-28,2026-08-01
+C0079,A0102,Financial & Retail,Missing Organization,Sales Operations,Delayed,Stalled,140,2026-05-08,2026-05-01
+C0080,A0134,Financial & Retail,Duplicate Ownership,Market Approver,Implemented,Moving,32,2026-08-24,2026-08-01
+C0081,A0122,Financial & Retail,Wrong Segment,Sales Operations,Closed,Moving,84,2026-07-03,2026-07-01
+C0082,A0005,Financial & Retail,Duplicate Ownership,Business Analyst,Implemented,Moving,37,2026-08-19,2026-08-01
+C0083,A0016,Public Sector,Active Bid Misaligned,Market Approver,Implemented,Moving,20,2026-09-05,2026-09-01
+C0084,A0097,Public Sector,Wrong Segment,Business Analyst,Approved,Moving,3,2026-09-22,2026-09-01
+C0085,A0035,Financial & Retail,Missing Organization,Sales Operations,Submitted,Moving,19,2026-09-06,2026-09-01
+C0086,A0119,Education,Wrong Segment,Sales Operations,Implemented,Moving,26,2026-08-30,2026-08-01
+C0087,A0069,Financial & Retail,Territory Misalignment,Business Analyst,Approved,Moving,20,2026-09-05,2026-09-01
+C0088,A0119,Education,Wrong Segment,Sales Operations,Submitted,Moving,27,2026-08-29,2026-08-01
+C0089,A0046,Public Sector,Territory Misalignment,Master Data,Submitted,Stalled,114,2026-06-03,2026-06-01
+C0090,A0118,Public Sector,Missing Organization,Sales Operations,Delayed,Moving,25,2026-08-31,2026-08-01
+C0091,A0028,Education,Wrong Parent,Business Analyst,Delayed,Stalled,130,2026-05-18,2026-05-01
+C0092,A0126,Public Sector,Duplicate Ownership,Business Analyst,Delayed,Stalled,135,2026-05-13,2026-05-01
+C0093,A0091,Public Sector,Active Bid Misaligned,Market Approver,Implemented,Moving,50,2026-08-06,2026-08-01
+C0094,A0117,Education,Orphan Account,Business Analyst,Closed,Moving,80,2026-07-07,2026-07-01
+C0095,A0115,Public Sector,Wrong Parent,Master Data,Implemented,Moving,39,2026-08-17,2026-08-01
+C0096,A0099,Financial & Retail,Orphan Account,Market Approver,Implemented,Moving,32,2026-08-24,2026-08-01
+C0097,A0146,Financial & Retail,Orphan Account,Sales Operations,Approved,Stalled,88,2026-06-29,2026-06-01
+C0098,A0088,Education,Duplicate Ownership,Master Data,Delayed,Moving,23,2026-09-02,2026-09-01
+C0099,A0006,Financial & Retail,Closed Entity,Master Data,Submitted,Moving,6,2026-09-19,2026-09-01
+C0100,A0035,Financial & Retail,Missing Organization,Market Approver,Submitted,Stalled,69,2026-07-18,2026-07-01
+C0101,A0104,Financial & Retail,Active Bid Misaligned,Master Data,Submitted,Stalled,127,2026-05-21,2026-05-01
+C0102,A0084,Financial & Retail,Closed Entity,Business Analyst,Implemented,Moving,28,2026-08-28,2026-08-01
+C0103,A0142,Public Sector,Active Bid Misaligned,Master Data,Implemented,Moving,87,2026-06-30,2026-06-01
+C0104,A0163,Public Sector,Wrong Parent,Master Data,Closed,Moving,56,2026-07-31,2026-07-01
+C0105,A0086,Public Sector,Active Bid Misaligned,Market Approver,Submitted,Moving,26,2026-08-30,2026-08-01
+C0106,A0096,Education,Missing Organization,Business Analyst,Submitted,Stalled,65,2026-07-22,2026-07-01
+C0107,A0136,Education,Missing Organization,Market Approver,Delayed,Stalled,131,2026-05-17,2026-05-01
+C0108,A0114,Public Sector,Wrong Parent,Master Data,Approved,Moving,25,2026-08-31,2026-08-01
+C0109,A0019,Financial & Retail,Duplicate Ownership,Market Approver,Implemented,Moving,69,2026-07-18,2026-07-01
+C0110,A0115,Public Sector,Wrong Parent,Market Approver,Submitted,Moving,29,2026-08-27,2026-08-01
+C0111,A0030,Education,Territory Misalignment,Master Data,Approved,Moving,29,2026-08-27,2026-08-01
+C0112,A0090,Public Sector,Wrong Parent,Sales Operations,Delayed,Moving,27,2026-08-29,2026-08-01
+C0113,A0167,Public Sector,Wrong Parent,Master Data,Closed,Moving,59,2026-07-28,2026-07-01
+C0114,A0067,Public Sector,Duplicate Ownership,Business Analyst,Implemented,Moving,42,2026-08-14,2026-08-01
+C0115,A0001,Financial & Retail,Duplicate Ownership,Market Approver,Approved,Moving,4,2026-09-21,2026-09-01
+C0116,A0007,Financial & Retail,Missing Organization,Business Analyst,Approved,Stalled,94,2026-06-23,2026-06-01
+C0117,A0112,Public Sector,Wrong Parent,Business Analyst,Approved,Moving,19,2026-09-06,2026-09-01
+C0118,A0081,Public Sector,Closed Entity,Business Analyst,Implemented,Moving,7,2026-09-18,2026-09-01
+C0119,A0071,Public Sector,Wrong Parent,Market Approver,Implemented,Moving,57,2026-07-30,2026-07-01
+C0120,A0105,Education,Orphan Account,Master Data,Submitted,Stalled,131,2026-05-17,2026-05-01
+C0121,A0073,Education,Closed Entity,Sales Operations,Implemented,Moving,16,2026-09-09,2026-09-01
+C0122,A0045,Education,Orphan Account,Master Data,Delayed,Stalled,137,2026-05-11,2026-05-01
+C0123,A0081,Public Sector,Closed Entity,Business Analyst,Implemented,Moving,28,2026-08-28,2026-08-01
+C0124,A0054,Financial & Retail,Orphan Account,Market Approver,Approved,Stalled,60,2026-07-27,2026-07-01
+C0125,A0037,Financial & Retail,Duplicate Ownership,Market Approver,Delayed,Stalled,94,2026-06-23,2026-06-01
+C0126,A0124,Public Sector,Territory Misalignment,Business Analyst,Closed,Moving,51,2026-08-05,2026-08-01
+C0127,A0120,Public Sector,Closed Entity,Sales Operations,Closed,Moving,20,2026-09-05,2026-09-01
+C0128,A0022,Public Sector,Missing Organization,Business Analyst,Approved,Stalled,96,2026-06-21,2026-06-01
+C0129,A0015,Financial & Retail,Duplicate Ownership,Sales Operations,Delayed,Stalled,130,2026-05-18,2026-05-01
+C0130,A0148,Financial & Retail,Territory Misalignment,Business Analyst,Submitted,Stalled,65,2026-07-22,2026-07-01
+C0131,A0004,Financial & Retail,Duplicate Ownership,Sales Operations,Closed,Moving,37,2026-08-19,2026-08-01
+C0132,A0075,Financial & Retail,Duplicate Ownership,Business Analyst,Submitted,Stalled,33,2026-08-23,2026-08-01
+C0133,A0121,Financial & Retail,Closed Entity,Sales Operations,Submitted,Moving,10,2026-09-15,2026-09-01
+C0134,A0024,Financial & Retail,Closed Entity,Sales Operations,Delayed,Moving,10,2026-09-15,2026-09-01
+C0135,A0163,Public Sector,Wrong Parent,Business Analyst,Approved,Stalled,102,2026-06-15,2026-06-01
+C0136,A0032,Public Sector,Missing Organization,Business Analyst,Implemented,Moving,25,2026-08-31,2026-08-01
+C0137,A0050,Public Sector,Wrong Parent,Market Approver,Implemented,Moving,7,2026-09-18,2026-09-01
+C0138,A0031,Education,Closed Entity,Business Analyst,Submitted,Moving,5,2026-09-20,2026-09-01
+C0139,A0021,Financial & Retail,Orphan Account,Master Data,Approved,Stalled,48,2026-08-08,2026-08-01
+C0140,A0106,Education,Orphan Account,Master Data,Approved,Stalled,67,2026-07-20,2026-07-01
+C0141,A0138,Public Sector,Active Bid Misaligned,Master Data,Implemented,Moving,39,2026-08-17,2026-08-01
+C0142,A0051,Public Sector,Territory Misalignment,Master Data,Implemented,Moving,58,2026-07-29,2026-07-01
+C0143,A0027,Public Sector,Wrong Segment,Business Analyst,Delayed,Stalled,37,2026-08-19,2026-08-01
+C0144,A0135,Public Sector,Active Bid Misaligned,Master Data,Delayed,Stalled,33,2026-08-23,2026-08-01
+C0145,A0008,Financial & Retail,Wrong Segment,Market Approver,Submitted,Stalled,74,2026-07-13,2026-07-01
+C0146,A0108,Public Sector,Duplicate Ownership,Sales Operations,Implemented,Moving,48,2026-08-08,2026-08-01
+C0147,A0145,Education,Wrong Parent,Market Approver,Implemented,Moving,28,2026-08-28,2026-08-01
+C0148,A0124,Public Sector,Territory Misalignment,Business Analyst,Approved,Stalled,92,2026-06-25,2026-06-01
+C0149,A0032,Public Sector,Missing Organization,Market Approver,Submitted,Stalled,94,2026-06-23,2026-06-01
+C0150,A0110,Financial & Retail,Orphan Account,Business Analyst,Submitted,Stalled,47,2026-08-09,2026-08-01
+C0151,A0013,Financial & Retail,Wrong Segment,Business Analyst,Delayed,Moving,3,2026-09-22,2026-09-01
+C0152,A0053,Education,Missing Organization,Master Data,Submitted,Moving,12,2026-09-13,2026-09-01
+C0153,A0156,Financial & Retail,Wrong Parent,Business Analyst,Delayed,Moving,28,2026-08-28,2026-08-01
+C0154,A0016,Public Sector,Active Bid Misaligned,Master Data,Submitted,Moving,20,2026-09-05,2026-09-01
+C0155,A0040,Financial & Retail,Missing Organization,Business Analyst,Closed,Moving,7,2026-09-18,2026-09-01
+C0156,A0021,Financial & Retail,Orphan Account,Master Data,Closed,Moving,80,2026-07-07,2026-07-01
+C0157,A0111,Public Sector,Wrong Segment,Business Analyst,Submitted,Stalled,134,2026-05-14,2026-05-01
+C0158,A0056,Financial & Retail,Wrong Segment,Business Analyst,Approved,Stalled,70,2026-07-17,2026-07-01
+C0159,A0149,Financial & Retail,Duplicate Ownership,Master Data,Approved,Moving,15,2026-09-10,2026-09-01
+C0160,A0052,Education,Duplicate Ownership,Market Approver,Submitted,Moving,7,2026-09-18,2026-09-01
+C0161,A0151,Education,Active Bid Misaligned,Business Analyst,Implemented,Moving,11,2026-09-14,2026-09-01
+C0162,A0137,Education,Orphan Account,Master Data,Submitted,Moving,27,2026-08-29,2026-08-01
+C0163,A0010,Education,Closed Entity,Master Data,Implemented,Moving,84,2026-07-03,2026-07-01
+C0164,A0058,Public Sector,Wrong Parent,Master Data,Approved,Stalled,78,2026-07-09,2026-07-01
+C0165,A0026,Education,Orphan Account,Sales Operations,Implemented,Moving,89,2026-06-28,2026-06-01
+C0166,A0061,Public Sector,Missing Organization,Market Approver,Implemented,Moving,82,2026-07-05,2026-07-01
+C0167,A0089,Financial & Retail,Orphan Account,Master Data,Implemented,Moving,63,2026-07-24,2026-07-01
+C0168,A0088,Education,Duplicate Ownership,Market Approver,Closed,Moving,36,2026-08-20,2026-08-01
+C0169,A0151,Education,Active Bid Misaligned,Business Analyst,Closed,Moving,53,2026-08-03,2026-08-01
+C0170,A0066,Public Sector,Active Bid Misaligned,Market Approver,Submitted,Stalled,91,2026-06-26,2026-06-01
+C0171,A0029,Financial & Retail,Missing Organization,Market Approver,Submitted,Moving,14,2026-09-11,2026-09-01
+C0172,A0043,Financial & Retail,Territory Misalignment,Sales Operations,Submitted,Moving,24,2026-09-01,2026-09-01
+C0173,A0150,Financial & Retail,Territory Misalignment,Business Analyst,Delayed,Stalled,139,2026-05-09,2026-05-01
+C0174,A0161,Education,Wrong Parent,Market Approver,Approved,Moving,9,2026-09-16,2026-09-01
+C0175,A0092,Education,Territory Misalignment,Master Data,Closed,Moving,46,2026-08-10,2026-08-01
+C0176,A0076,Education,Wrong Parent,Master Data,Approved,Moving,3,2026-09-22,2026-09-01
+C0177,A0038,Financial & Retail,Orphan Account,Sales Operations,Approved,Stalled,79,2026-07-08,2026-07-01
+C0178,A0094,Financial & Retail,Duplicate Ownership,Business Analyst,Approved,Moving,2,2026-09-23,2026-09-01
+C0179,A0034,Financial & Retail,Duplicate Ownership,Master Data,Closed,Moving,58,2026-07-29,2026-07-01
+C0180,A0093,Education,Wrong Parent,Sales Operations,Submitted,Stalled,97,2026-06-20,2026-06-01
+C0181,A0107,Education,Territory Misalignment,Master Data,Closed,Moving,44,2026-08-12,2026-08-01
+C0182,A0060,Education,Missing Organization,Sales Operations,Submitted,Stalled,94,2026-06-23,2026-06-01
+C0183,A0072,Financial & Retail,Active Bid Misaligned,Sales Operations,Implemented,Moving,14,2026-09-11,2026-09-01
+C0184,A0063,Education,Duplicate Ownership,Sales Operations,Approved,Moving,19,2026-09-06,2026-09-01
+C0185,A0085,Education,Duplicate Ownership,Master Data,Delayed,Stalled,128,2026-05-20,2026-05-01
+C0186,A0123,Education,Wrong Segment,Master Data,Delayed,Moving,4,2026-09-21,2026-09-01
+C0187,A0013,Financial & Retail,Wrong Segment,Market Approver,Closed,Moving,84,2026-07-03,2026-07-01
+C0188,A0168,Public Sector,Territory Misalignment,Master Data,Implemented,Moving,84,2026-07-03,2026-07-01
+C0189,A0080,Public Sector,Orphan Account,Market Approver,Closed,Moving,70,2026-07-17,2026-07-01
+C0190,A0010,Education,Closed Entity,Master Data,Delayed,Stalled,128,2026-05-20,2026-05-01
+C0191,A0074,Financial & Retail,Orphan Account,Business Analyst,Approved,Moving,12,2026-09-13,2026-09-01
+C0192,A0144,Financial & Retail,Orphan Account,Market Approver,Delayed,Stalled,100,2026-06-17,2026-06-01
+C0193,A0077,Education,Duplicate Ownership,Master Data,Submitted,Moving,1,2026-09-24,2026-09-01
+C0194,A0099,Financial & Retail,Orphan Account,Master Data,Delayed,Moving,8,2026-09-17,2026-09-01
+C0195,A0095,Public Sector,Closed Entity,Master Data,Submitted,Stalled,136,2026-05-12,2026-05-01
+C0196,A0147,Public Sector,Active Bid Misaligned,Master Data,Submitted,Moving,28,2026-08-28,2026-08-01
+C0197,A0082,Public Sector,Territory Misalignment,Sales Operations,Approved,Stalled,48,2026-08-08,2026-08-01
+C0198,A0089,Financial & Retail,Orphan Account,Master Data,Delayed,Moving,2,2026-09-23,2026-09-01
+C0199,A0047,Education,Territory Misalignment,Market Approver,Closed,Moving,22,2026-09-03,2026-09-01
+C0200,A0165,Education,Territory Misalignment,Market Approver,Implemented,Moving,9,2026-09-16,2026-09-01
+C0201,A0109,Education,Duplicate Ownership,Market Approver,Delayed,Stalled,56,2026-07-31,2026-07-01
+C0202,A0065,Financial & Retail,Orphan Account,Master Data,Submitted,Moving,3,2026-09-22,2026-09-01
+C0203,A0165,Education,Territory Misalignment,Sales Operations,Submitted,Stalled,136,2026-05-12,2026-05-01
+C0204,A0070,Financial & Retail,Orphan Account,Master Data,Closed,Moving,79,2026-07-08,2026-07-01
+C0205,A0015,Financial & Retail,Duplicate Ownership,Business Analyst,Approved,Stalled,120,2026-05-28,2026-05-01
+C0206,A0154,Financial & Retail,Active Bid Misaligned,Master Data,Approved,Moving,15,2026-09-10,2026-09-01
+C0207,A0166,Education,Duplicate Ownership,Market Approver,Approved,Stalled,63,2026-07-24,2026-07-01
+C0208,A0128,Financial & Retail,Duplicate Ownership,Sales Operations,Delayed,Stalled,51,2026-08-05,2026-08-01
+C0209,A0147,Public Sector,Active Bid Misaligned,Business Analyst,Implemented,Moving,27,2026-08-29,2026-08-01
+C0210,A0018,Public Sector,Wrong Parent,Business Analyst,Submitted,Moving,30,2026-08-26,2026-08-01
+C0211,A0030,Education,Territory Misalignment,Market Approver,Implemented,Moving,31,2026-08-25,2026-08-01
+C0212,A0048,Financial & Retail,Orphan Account,Business Analyst,Implemented,Moving,11,2026-09-14,2026-09-01
+C0213,A0041,Financial & Retail,Duplicate Ownership,Business Analyst,Submitted,Stalled,66,2026-07-21,2026-07-01
+C0214,A0008,Financial & Retail,Wrong Segment,Business Analyst,Submitted,Stalled,61,2026-07-26,2026-07-01
+C0215,A0048,Financial & Retail,Orphan Account,Master Data,Implemented,Moving,8,2026-09-17,2026-09-01
+C0216,A0069,Financial & Retail,Territory Misalignment,Sales Operations,Approved,Moving,5,2026-09-20,2026-09-01
+C0217,A0023,Public Sector,Wrong Parent,Sales Operations,Approved,Stalled,108,2026-06-09,2026-06-01
+C0218,A0072,Financial & Retail,Active Bid Misaligned,Sales Operations,Implemented,Moving,61,2026-07-26,2026-07-01
+C0219,A0057,Education,Wrong Segment,Market Approver,Submitted,Moving,12,2026-09-13,2026-09-01
+C0220,A0078,Public Sector,Wrong Parent,Sales Operations,Closed,Moving,59,2026-07-28,2026-07-01
+C0221,A0127,Public Sector,Duplicate Ownership,Market Approver,Implemented,Moving,84,2026-07-03,2026-07-01
+C0222,A0169,Financial & Retail,Wrong Segment,Business Analyst,Implemented,Moving,40,2026-08-16,2026-08-01
+C0223,A0091,Public Sector,Active Bid Misaligned,Market Approver,Submitted,Stalled,94,2026-06-23,2026-06-01
+C0224,A0160,Education,Duplicate Ownership,Sales Operations,Implemented,Moving,12,2026-09-13,2026-09-01
+C0225,A0154,Financial & Retail,Active Bid Misaligned,Business Analyst,Approved,Moving,2,2026-09-23,2026-09-01
+C0226,A0042,Public Sector,Duplicate Ownership,Market Approver,Implemented,Moving,72,2026-07-15,2026-07-01
+C0227,A0101,Education,Territory Misalignment,Master Data,Delayed,Stalled,108,2026-06-09,2026-06-01
+C0228,A0144,Financial & Retail,Orphan Account,Market Approver,Delayed,Moving,8,2026-09-17,2026-09-01
+C0229,A0006,Financial & Retail,Closed Entity,Market Approver,Approved,Moving,28,2026-08-28,2026-08-01
+C0230,A0040,Financial & Retail,Missing Organization,Business Analyst,Implemented,Moving,33,2026-08-23,2026-08-01
+C0231,A0131,Financial & Retail,Duplicate Ownership,Market Approver,Submitted,Stalled,35,2026-08-21,2026-08-01
+C0232,A0003,Financial & Retail,Closed Entity,Market Approver,Submitted,Moving,9,2026-09-16,2026-09-01
+C0233,A0087,Financial & Retail,Closed Entity,Business Analyst,Implemented,Moving,37,2026-08-19,2026-08-01
+C0234,A0141,Financial & Retail,Duplicate Ownership,Business Analyst,Approved,Stalled,52,2026-08-04,2026-08-01
+C0235,A0017,Public Sector,Duplicate Ownership,Sales Operations,Approved,Moving,17,2026-09-08,2026-09-01
+C0236,A0083,Financial & Retail,Wrong Parent,Sales Operations,Implemented,Moving,36,2026-08-20,2026-08-01
+C0237,A0133,Education,Closed Entity,Master Data,Delayed,Stalled,47,2026-08-09,2026-08-01
+C0238,A0118,Public Sector,Missing Organization,Sales Operations,Closed,Moving,88,2026-06-29,2026-06-01
+C0239,A0077,Education,Duplicate Ownership,Master Data,Approved,Stalled,44,2026-08-12,2026-08-01
+C0240,A0063,Education,Duplicate Ownership,Master Data,Closed,Moving,71,2026-07-16,2026-07-01
+C0241,A0075,Financial & Retail,Duplicate Ownership,Business Analyst,Delayed,Stalled,85,2026-07-02,2026-07-01
+C0242,A0140,Education,Wrong Parent,Master Data,Approved,Moving,1,2026-09-24,2026-09-01
+C0243,A0087,Financial & Retail,Closed Entity,Market Approver,Implemented,Moving,42,2026-08-14,2026-08-01
+C0244,A0041,Financial & Retail,Duplicate Ownership,Master Data,Implemented,Moving,13,2026-09-12,2026-09-01
+C0245,A0023,Public Sector,Wrong Parent,Business Analyst,Implemented,Moving,21,2026-09-04,2026-09-01
+C0246,A0009,Public Sector,Duplicate Ownership,Business Analyst,Submitted,Stalled,90,2026-06-27,2026-06-01
+C0247,A0028,Education,Wrong Parent,Sales Operations,Approved,Moving,15,2026-09-10,2026-09-01
+C0248,A0014,Education,Active Bid Misaligned,Master Data,Implemented,Moving,54,2026-08-02,2026-08-01
+C0249,A0054,Financial & Retail,Orphan Account,Market Approver,Delayed,Moving,2,2026-09-23,2026-09-01
+C0250,A0014,Education,Active Bid Misaligned,Master Data,Closed,Moving,74,2026-07-13,2026-07-01
+C0251,A0159,Financial & Retail,Territory Misalignment,Market Approver,Approved,Moving,28,2026-08-28,2026-08-01
+C0252,A0141,Financial & Retail,Duplicate Ownership,Business Analyst,Approved,Stalled,66,2026-07-21,2026-07-01
+C0253,A0053,Education,Missing Organization,Market Approver,Submitted,Stalled,64,2026-07-23,2026-07-01
+C0254,A0060,Education,Missing Organization,Sales Operations,Approved,Stalled,61,2026-07-26,2026-07-01
+C0255,A0167,Public Sector,Wrong Parent,Master Data,Submitted,Stalled,119,2026-05-29,2026-05-01
+C0256,A0036,Education,Duplicate Ownership,Business Analyst,Approved,Stalled,83,2026-07-04,2026-07-01
+C0257,A0011,Public Sector,Wrong Parent,Business Analyst,Delayed,Moving,5,2026-09-20,2026-09-01
+C0258,A0093,Education,Wrong Parent,Market Approver,Closed,Moving,57,2026-07-30,2026-07-01
+C0259,A0059,Financial & Retail,Wrong Segment,Business Analyst,Delayed,Stalled,62,2026-07-25,2026-07-01
+C0260,A0052,Education,Duplicate Ownership,Sales Operations,Closed,Moving,80,2026-07-07,2026-07-01

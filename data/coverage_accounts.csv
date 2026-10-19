@@ -1,0 +1,401 @@
+account_id,account_name,parent_company,vertical,segment,country,region,territory_id,territory_name,rep_name,employee_band,estimated_tam,health,issue_type,issue_severity,severity_rank,tam_at_risk,active_bid,hierarchy_status,resolution_status
+A0001,Sterling Leasing,Sterling Retail Group plc,Financial & Retail,Strategic,United Kingdom,Midlands,T011,Midlands Core,Ryan Cooper,50-249,100300,Defect,Duplicate Ownership,High,3,92200,No,Verified,In progress
+A0002,Cavendish Stores,Cavendish Commerce Group plc,Financial & Retail,Strategic,Ireland,Dublin,T035,Dublin Install,Ryan Cooper,50-249,91600,Defect,Duplicate Ownership,High,3,91000,No,Unverified,Open
+A0003,Regent Payments,Regent Retail Holdings,Financial & Retail,Strategic,United Kingdom,Scotland,T021,Scotland Core,Megan Walsh,"1,000-4,999",122900,Defect,Closed Entity,High,3,77400,No,Pending,In progress
+A0004,Summit Online Retail,Summit Retail Holdings,Financial & Retail,Strategic,United Kingdom,South East,T008,South East Named,Priya Shah,50-249,122800,Defect,Duplicate Ownership,High,3,73400,No,Verified,In progress
+A0005,Hollowell Wealth,Hollowell Retail Holdings,Financial & Retail,Strategic,Ireland,Munster,T036,Munster Core,Oliver Grant,50-249,105800,Defect,Duplicate Ownership,High,3,63900,Yes,Unverified,In progress
+A0006,Saxon Leasing,Saxon Banking Group,Financial & Retail,Strategic,United Kingdom,Wales,T029,Wales Emerging,Priya Shah,50-249,95800,Defect,Closed Entity,High,3,57300,Yes,Verified,Resolved
+A0007,Westfield Asset Management,Westfield Retail Holdings,Financial & Retail,Strategic,United Kingdom,London,T001,London Core,Daniel Brooks,50-249,84900,Defect,Missing Organization,Medium,2,55600,No,Unverified,Open
+A0008,Bristol Card Services,Bristol Banking Group,Financial & Retail,Strategic,Ireland,Munster,T038,Munster Named,Laura Bennett,"5,000+",83000,Defect,Wrong Segment,Medium,2,53300,Yes,Unverified,In progress
+A0009,Pinnacle Housing,Pinnacle Government Services,Public Sector,Enterprise,United Kingdom,London,T001,London Core,Daniel Brooks,250-999,85000,Defect,Duplicate Ownership,High,3,48700,No,Verified,Open
+A0010,Thornbury Nursery Group,Thornbury Education Holdings,Education,Enterprise,United Kingdom,Wales,T027,Wales Growth,Sophie Reed,250-999,70900,Defect,Closed Entity,High,3,47400,No,Unverified,Open
+A0011,Bristol Fire Service,Bristol Government Services,Public Sector,Enterprise,United Kingdom,South East,T009,South East Emerging,Laura Bennett,50-249,66600,Defect,Wrong Parent,Medium,2,27200,Yes,Pending,Open
+A0012,Kestrel Library Service,Kestrel Public Services Group,Public Sector,Corporate,Ireland,Munster,T037,Munster Growth,Megan Walsh,50-249,45100,Defect,Duplicate Ownership,Medium,2,27200,No,Verified,In progress
+A0013,Pinnacle Leasing,Pinnacle Financial Group,Financial & Retail,Mid-Market,United Kingdom,Scotland,T025,Scotland Install,Marcus Flynn,"1,000-4,999",54000,Defect,Wrong Segment,Low,1,26500,No,Unverified,In progress
+A0014,Carlton College,Carlton Education Trust,Education,Corporate,United Kingdom,Wales,T027,Wales Growth,Daniel Brooks,250-999,49500,Defect,Active Bid Misaligned,High,3,26400,No,Unverified,Resolved
+A0015,Eden Retail,Eden Capital Partners,Financial & Retail,Enterprise,United Kingdom,South East,T007,South East Growth,Priya Shah,50-249,58500,Defect,Duplicate Ownership,High,3,26100,No,Verified,Open
+A0016,Dorset Water,Dorset Government Services,Public Sector,Enterprise,United Kingdom,London,T002,London Growth,Oliver Grant,250-999,59100,Defect,Active Bid Misaligned,High,3,26000,Yes,Verified,In progress
+A0017,Kestrel Council Services,Kestrel Regional Authority,Public Sector,Mid-Market,United Kingdom,London,T005,London Install,Hannah Cole,50-249,56000,Defect,Duplicate Ownership,High,3,26000,No,Pending,Resolved
+A0018,Saxon Library Service,Saxon Regional Authority,Public Sector,Corporate,United Kingdom,Wales,T027,Wales Growth,Hannah Cole,250-999,54500,Defect,Wrong Parent,Medium,2,26000,No,Pending,In progress
+A0019,Ashford Insurance,Ashford Retail Group plc,Financial & Retail,Corporate,United Kingdom,South East,T007,South East Growth,Hannah Cole,50-249,50500,Defect,Duplicate Ownership,High,3,25900,No,Pending,Resolved
+A0020,Bristol Library Service,Bristol Public Services Group,Public Sector,Corporate,Ireland,Dublin,T033,Dublin Named,Ryan Cooper,"1,000-4,999",27300,Defect,Orphan Account,Medium,2,25800,No,Pending,Resolved
+A0021,Wessex Trading,Wessex Retail Group plc,Financial & Retail,Mid-Market,Ireland,Munster,T040,Munster Install,Daniel Brooks,250-999,50200,Defect,Orphan Account,Low,1,25700,No,Verified,Open
+A0022,Brook Health Partnership,Brook Regional Authority,Public Sector,Corporate,Ireland,Munster,T040,Munster Install,Aisha Khan,50-249,56600,Defect,Missing Organization,Medium,2,25400,No,Pending,Open
+A0023,Thornbury Housing,Thornbury Civic Partnership,Public Sector,Mid-Market,United Kingdom,Midlands,T011,Midlands Core,Daniel Brooks,250-999,59800,Defect,Wrong Parent,High,3,25300,No,Pending,In progress
+A0024,Clyde Leasing,Clyde Capital Partners,Financial & Retail,Mid-Market,United Kingdom,Midlands,T013,Midlands Named,Laura Bennett,"1,000-4,999",48300,Defect,Closed Entity,Medium,2,25100,No,Pending,In progress
+A0025,Meridian Housing,Meridian Civic Partnership,Public Sector,Corporate,United Kingdom,London,T005,London Install,Sophie Reed,50-249,57900,Defect,Territory Misalignment,Medium,2,25100,No,Verified,Open
+A0026,Meridian Training,Meridian Education Holdings,Education,Enterprise,United Kingdom,London,T002,London Growth,Daniel Brooks,50-249,60500,Defect,Orphan Account,Medium,2,25100,No,Pending,Resolved
+A0027,Carlton Library Service,Carlton Government Services,Public Sector,Corporate,United Kingdom,North,T018,North Named,Chloe Evans,50-249,48400,Defect,Wrong Segment,Low,1,24700,No,Pending,In progress
+A0028,Severn Nursery Group,Severn Academies Trust,Education,Corporate,United Kingdom,London,T004,London Emerging,Sophie Reed,250-999,37500,Defect,Wrong Parent,High,3,24400,No,Unverified,Resolved
+A0029,Yarrow Brokers,Yarrow Banking Group,Financial & Retail,Enterprise,United Kingdom,Scotland,T023,Scotland Named,Laura Bennett,"1,000-4,999",40000,Defect,Missing Organization,Medium,2,24300,No,Pending,Open
+A0030,Westfield Learning Trust,Westfield Learning Group,Education,Mid-Market,United Kingdom,Scotland,T022,Scotland Growth,Jamie Patel,250-999,69500,Defect,Territory Misalignment,Medium,2,24000,No,Pending,Resolved
+A0031,Meridian Nursery Group,Meridian Education Trust,Education,Enterprise,Ireland,Dublin,T033,Dublin Named,Chloe Evans,"5,000+",44800,Defect,Closed Entity,High,3,23900,No,Verified,Open
+A0032,Lancaster Council Services,Lancaster Regional Authority,Public Sector,Mid-Market,United Kingdom,London,T002,London Growth,Laura Bennett,"1,000-4,999",56000,Defect,Missing Organization,Low,1,23700,No,Verified,Open
+A0033,Bristol Academy Trust,Bristol Academies Trust,Education,Mid-Market,Ireland,Munster,T038,Munster Named,Priya Shah,50-249,48600,Defect,Closed Entity,Medium,2,23500,No,Unverified,Resolved
+A0034,Wessex Brokers,Wessex Financial Group,Financial & Retail,Corporate,United Kingdom,London,T005,London Install,Ryan Cooper,250-999,32600,Defect,Duplicate Ownership,High,3,23200,Yes,Pending,Resolved
+A0035,Tamar Stores,Tamar Banking Group,Financial & Retail,Corporate,United Kingdom,London,T002,London Growth,Jamie Patel,"1,000-4,999",64800,Defect,Missing Organization,Low,1,23100,No,Unverified,In progress
+A0036,Clyde Academy Trust,Clyde Academies Trust,Education,Strategic,United Kingdom,Wales,T028,Wales Named,Hannah Cole,250-999,37700,Defect,Duplicate Ownership,Medium,2,22800,Yes,Unverified,Resolved
+A0037,Summit Stores,Summit Commerce Group plc,Financial & Retail,Mid-Market,Ireland,Dublin,T035,Dublin Install,Aisha Khan,"5,000+",42100,Defect,Duplicate Ownership,High,3,22700,No,Pending,Resolved
+A0038,Dorset Leasing,Dorset Retail Group plc,Financial & Retail,Enterprise,Ireland,Munster,T037,Munster Growth,Daniel Brooks,50-249,46300,Defect,Orphan Account,Medium,2,22600,Yes,Unverified,In progress
+A0039,Ashford Retail,Ashford Capital Partners,Financial & Retail,Corporate,United Kingdom,South East,T009,South East Emerging,Jamie Patel,"1,000-4,999",45200,Defect,Closed Entity,Medium,2,22500,No,Verified,Open
+A0040,Dorset Payments,Dorset Retail Group plc,Financial & Retail,Enterprise,Ireland,Dublin,T034,Dublin Emerging,Priya Shah,250-999,53200,Defect,Missing Organization,Low,1,22500,Yes,Pending,Open
+A0041,Bristol Trading,Bristol Banking Group,Financial & Retail,Enterprise,United Kingdom,Wales,T027,Wales Growth,Priya Shah,250-999,41400,Defect,Duplicate Ownership,High,3,22400,No,Unverified,Resolved
+A0042,Clyde Community Trust,Clyde Government Services,Public Sector,Corporate,Ireland,Munster,T036,Munster Core,Daniel Brooks,50-249,35800,Defect,Duplicate Ownership,High,3,22200,Yes,Verified,Resolved
+A0043,Ashford Lending,Ashford Retail Group plc,Financial & Retail,Mid-Market,Ireland,Dublin,T035,Dublin Install,Hannah Cole,250-999,37700,Defect,Territory Misalignment,High,3,22100,No,Verified,In progress
+A0044,Juniper Payments,Juniper Banking Group,Financial & Retail,Enterprise,United Kingdom,Wales,T027,Wales Growth,Daniel Brooks,250-999,54000,Defect,Territory Misalignment,Low,1,22100,No,Pending,Resolved
+A0045,Wessex Sixth Form,Wessex Learning Group,Education,Mid-Market,United Kingdom,Midlands,T012,Midlands Growth,Daniel Brooks,250-999,58200,Defect,Orphan Account,Medium,2,22100,No,Pending,Resolved
+A0046,Yarrow Transport,Yarrow Regional Authority,Public Sector,Mid-Market,United Kingdom,Wales,T030,Wales Install,Megan Walsh,"1,000-4,999",46700,Defect,Territory Misalignment,High,3,21900,No,Unverified,In progress
+A0047,Lancaster Training,Lancaster Learning Group,Education,Enterprise,United Kingdom,Midlands,T014,Midlands Emerging,Chloe Evans,50-249,38200,Defect,Territory Misalignment,Medium,2,21700,No,Pending,In progress
+A0048,Oakridge Stores,Oakridge Capital Partners,Financial & Retail,Corporate,United Kingdom,London,T002,London Growth,Chloe Evans,"1,000-4,999",36000,Defect,Orphan Account,Medium,2,21500,Yes,Pending,Resolved
+A0049,Regent School,Regent Education Holdings,Education,Mid-Market,Ireland,Dublin,T031,Dublin Core,Laura Bennett,"5,000+",34900,Defect,Duplicate Ownership,Medium,2,21400,No,Unverified,Open
+A0050,Sterling Health Partnership,Sterling Civic Partnership,Public Sector,Corporate,Ireland,Munster,T037,Munster Growth,Ryan Cooper,"1,000-4,999",38600,Defect,Wrong Parent,High,3,21400,Yes,Verified,Resolved
+A0051,Lancaster Health Partnership,Lancaster Regional Authority,Public Sector,Corporate,Ireland,Dublin,T031,Dublin Core,Sophie Reed,50-249,43800,Defect,Territory Misalignment,High,3,21300,No,Pending,Resolved
+A0052,Ironside Learning Trust,Ironside Education Trust,Education,Corporate,United Kingdom,Wales,T029,Wales Emerging,Daniel Brooks,50-249,52400,Defect,Duplicate Ownership,Medium,2,21100,Yes,Unverified,In progress
+A0053,Hollowell Training,Hollowell Education Holdings,Education,Mid-Market,United Kingdom,Midlands,T013,Midlands Named,Ryan Cooper,250-999,34300,Defect,Missing Organization,Medium,2,20900,No,Verified,Resolved
+A0054,Wessex Outlets,Wessex Retail Group plc,Financial & Retail,Mid-Market,United Kingdom,Scotland,T024,Scotland Emerging,Daniel Brooks,250-999,36200,Defect,Orphan Account,Medium,2,20900,No,Pending,Resolved
+A0055,Redwood Transport,Redwood Regional Authority,Public Sector,Strategic,United Kingdom,Midlands,T012,Midlands Growth,Daniel Brooks,"1,000-4,999",49800,Defect,Closed Entity,High,3,20800,No,Pending,Open
+A0056,Cavendish Retail,Cavendish Financial Group,Financial & Retail,Mid-Market,United Kingdom,Wales,T030,Wales Install,Oliver Grant,"5,000+",40100,Defect,Wrong Segment,Medium,2,20600,Yes,Verified,Open
+A0057,Carlton Academy Trust,Carlton Education Trust,Education,Enterprise,United Kingdom,Midlands,T012,Midlands Growth,Sophie Reed,"1,000-4,999",33600,Defect,Wrong Segment,Low,1,20500,No,Verified,Open
+A0058,Granite Fire Service,Granite Regional Authority,Public Sector,Corporate,United Kingdom,South East,T006,South East Core,Laura Bennett,250-999,36200,Defect,Wrong Parent,High,3,20400,Yes,Unverified,Resolved
+A0059,Beacon Card Services,Beacon Commerce Group plc,Financial & Retail,Corporate,United Kingdom,South East,T009,South East Emerging,Marcus Flynn,250-999,35700,Defect,Wrong Segment,Low,1,20200,Yes,Unverified,Resolved
+A0060,Clyde Institute,Clyde Education Trust,Education,Mid-Market,United Kingdom,Midlands,T014,Midlands Emerging,Ryan Cooper,250-999,26400,Defect,Missing Organization,Medium,2,20100,Yes,Pending,Open
+A0061,Cavendish Council Services,Cavendish Public Services Group,Public Sector,Enterprise,United Kingdom,South East,T009,South East Emerging,Laura Bennett,"5,000+",48800,Defect,Missing Organization,Low,1,19900,No,Unverified,In progress
+A0062,Brook Water,Brook Public Services Group,Public Sector,Corporate,United Kingdom,Scotland,T024,Scotland Emerging,Sophie Reed,50-249,38800,Defect,Active Bid Misaligned,High,3,19700,Yes,Pending,Open
+A0063,Severn Institute,Severn Education Holdings,Education,Mid-Market,United Kingdom,Wales,T030,Wales Install,Jamie Patel,250-999,63400,Defect,Duplicate Ownership,High,3,19500,No,Pending,Resolved
+A0064,Elmwood Wealth,Elmwood Banking Group,Financial & Retail,Corporate,Ireland,Dublin,T032,Dublin Growth,Sophie Reed,"5,000+",43200,Defect,Wrong Parent,Medium,2,19400,No,Unverified,In progress
+A0065,Westfield Stores,Westfield Banking Group,Financial & Retail,Corporate,United Kingdom,Wales,T028,Wales Named,Megan Walsh,250-999,33400,Defect,Orphan Account,Medium,2,19300,No,Pending,Resolved
+A0066,Hollowell Community Trust,Hollowell Civic Partnership,Public Sector,Corporate,Ireland,Dublin,T033,Dublin Named,Aisha Khan,250-999,45300,Defect,Active Bid Misaligned,High,3,19200,Yes,Unverified,Open
+A0067,Clyde Fire Service,Clyde Civic Partnership,Public Sector,Strategic,Ireland,Dublin,T031,Dublin Core,Jamie Patel,250-999,38500,Defect,Duplicate Ownership,Medium,2,19100,No,Unverified,In progress
+A0068,Eden Nursery Group,Eden Education Trust,Education,Enterprise,Ireland,Dublin,T034,Dublin Emerging,Daniel Brooks,"5,000+",47800,Defect,Active Bid Misaligned,High,3,19000,No,Verified,Resolved
+A0069,Yarrow Payments,Yarrow Retail Group plc,Financial & Retail,Corporate,United Kingdom,Wales,T026,Wales Core,Priya Shah,"5,000+",33100,Defect,Territory Misalignment,High,3,18500,No,Unverified,Open
+A0070,Cavendish Insurance,Cavendish Retail Group plc,Financial & Retail,Mid-Market,United Kingdom,Wales,T027,Wales Growth,Ryan Cooper,"1,000-4,999",25800,Defect,Orphan Account,Medium,2,18300,No,Pending,Resolved
+A0071,Meridian Transport,Meridian Public Services Group,Public Sector,Corporate,United Kingdom,North,T019,North Emerging,Laura Bennett,"1,000-4,999",36100,Defect,Wrong Parent,High,3,17800,Yes,Pending,Open
+A0072,Cavendish Capital,Cavendish Banking Group,Financial & Retail,Corporate,Ireland,Dublin,T034,Dublin Emerging,Marcus Flynn,250-999,29900,Defect,Active Bid Misaligned,High,3,17200,Yes,Verified,Open
+A0073,Dunmore Academy Trust,Dunmore Learning Group,Education,Corporate,United Kingdom,London,T004,London Emerging,Ryan Cooper,50-249,26100,Defect,Closed Entity,High,3,17200,Yes,Pending,Open
+A0074,Wessex Leasing,Wessex Capital Partners,Financial & Retail,Corporate,United Kingdom,Wales,T030,Wales Install,Hannah Cole,250-999,36900,Defect,Orphan Account,Medium,2,17000,No,Verified,In progress
+A0075,Thornbury Card Services,Thornbury Financial Group,Financial & Retail,Enterprise,United Kingdom,Midlands,T014,Midlands Emerging,Daniel Brooks,"1,000-4,999",26500,Defect,Duplicate Ownership,Medium,2,16600,Yes,Verified,Open
+A0076,Severn Sixth Form,Severn Education Trust,Education,Corporate,United Kingdom,South East,T007,South East Growth,Ryan Cooper,50-249,18600,Defect,Wrong Parent,High,3,16200,No,Pending,Resolved
+A0077,Vale Learning Trust,Vale Academies Trust,Education,Corporate,United Kingdom,Scotland,T021,Scotland Core,Daniel Brooks,250-999,31400,Defect,Duplicate Ownership,High,3,16200,No,Unverified,Open
+A0078,Quayside Library Service,Quayside Government Services,Public Sector,Corporate,United Kingdom,London,T001,London Core,Laura Bennett,50-249,38500,Defect,Wrong Parent,Medium,2,16100,No,Unverified,In progress
+A0079,Clyde Brokers,Clyde Commerce Group plc,Financial & Retail,Mid-Market,United Kingdom,London,T001,London Core,Laura Bennett,250-999,26200,Defect,Closed Entity,High,3,16000,No,Unverified,In progress
+A0080,Summit Community Trust,Summit Public Services Group,Public Sector,Mid-Market,United Kingdom,Midlands,T015,Midlands Install,Aisha Khan,50-249,46500,Defect,Orphan Account,Low,1,15900,No,Verified,Resolved
+A0081,Dorset Housing,Dorset Regional Authority,Public Sector,Mid-Market,United Kingdom,Midlands,T013,Midlands Named,Priya Shah,50-249,50900,Defect,Closed Entity,Medium,2,15800,No,Verified,Open
+A0082,Carlton Housing,Carlton Civic Partnership,Public Sector,Corporate,United Kingdom,Scotland,T021,Scotland Core,Priya Shah,50-249,30900,Defect,Territory Misalignment,Low,1,15600,No,Pending,In progress
+A0083,Ulster Payments,Ulster Commerce Group plc,Financial & Retail,Mid-Market,United Kingdom,Scotland,T025,Scotland Install,Marcus Flynn,250-999,39600,Defect,Wrong Parent,Medium,2,15600,No,Pending,Open
+A0084,Carlton Outlets,Carlton Financial Group,Financial & Retail,Corporate,Ireland,Dublin,T033,Dublin Named,Sophie Reed,250-999,49200,Defect,Closed Entity,High,3,15300,No,Verified,Open
+A0085,Bristol Sixth Form,Bristol Education Trust,Education,Corporate,United Kingdom,South East,T010,South East Install,Megan Walsh,"1,000-4,999",33800,Defect,Duplicate Ownership,Medium,2,15100,No,Pending,Open
+A0086,Pinnacle Community Trust,Pinnacle Public Services Group,Public Sector,Enterprise,United Kingdom,South East,T008,South East Named,Sophie Reed,50-249,26700,Defect,Active Bid Misaligned,High,3,15100,No,Unverified,Open
+A0087,Redwood Wealth,Redwood Capital Partners,Financial & Retail,Enterprise,United Kingdom,Wales,T028,Wales Named,Priya Shah,50-249,37900,Defect,Closed Entity,High,3,15100,No,Verified,Open
+A0088,Albion Institute,Albion Learning Group,Education,Enterprise,United Kingdom,South East,T006,South East Core,Aisha Khan,250-999,44900,Defect,Duplicate Ownership,Medium,2,14600,No,Pending,Open
+A0089,Hollowell Capital,Hollowell Commerce Group plc,Financial & Retail,Corporate,United Kingdom,Wales,T028,Wales Named,Priya Shah,50-249,36900,Defect,Orphan Account,Medium,2,14500,Yes,Verified,Resolved
+A0090,Redwood Water,Redwood Regional Authority,Public Sector,Mid-Market,United Kingdom,Midlands,T011,Midlands Core,Megan Walsh,50-249,43200,Defect,Wrong Parent,Medium,2,14300,No,Verified,Open
+A0091,Ironside Health Partnership,Ironside Civic Partnership,Public Sector,Enterprise,United Kingdom,Scotland,T024,Scotland Emerging,Daniel Brooks,250-999,37900,Defect,Active Bid Misaligned,High,3,14200,No,Verified,Resolved
+A0092,Ironside Sixth Form,Ironside Learning Group,Education,Corporate,United Kingdom,London,T001,London Core,Jamie Patel,"1,000-4,999",28100,Defect,Territory Misalignment,Low,1,14200,No,Unverified,In progress
+A0093,Vale Training,Vale Academies Trust,Education,Enterprise,United Kingdom,South East,T008,South East Named,Laura Bennett,250-999,27000,Defect,Wrong Parent,High,3,14200,No,Verified,Resolved
+A0094,Dorset Wealth,Dorset Retail Group plc,Financial & Retail,Mid-Market,Ireland,Munster,T040,Munster Install,Oliver Grant,250-999,32900,Defect,Duplicate Ownership,High,3,14100,Yes,Verified,In progress
+A0095,Westfield Transport,Westfield Government Services,Public Sector,Corporate,United Kingdom,Scotland,T021,Scotland Core,Priya Shah,50-249,27900,Defect,Closed Entity,High,3,14100,No,Pending,In progress
+A0096,Brook Sixth Form,Brook Learning Group,Education,Mid-Market,United Kingdom,South East,T010,South East Install,Laura Bennett,"1,000-4,999",28100,Defect,Missing Organization,Low,1,13900,No,Pending,Resolved
+A0097,Pembroke Library Service,Pembroke Government Services,Public Sector,Enterprise,United Kingdom,Scotland,T021,Scotland Core,Marcus Flynn,250-999,45900,Defect,Wrong Segment,Medium,2,13700,Yes,Verified,In progress
+A0098,Redwood College,Redwood Academies Trust,Education,Corporate,Ireland,Dublin,T035,Dublin Install,Laura Bennett,"1,000-4,999",24000,Defect,Wrong Parent,High,3,13600,No,Unverified,Open
+A0099,Elmwood Trading,Elmwood Retail Holdings,Financial & Retail,Mid-Market,United Kingdom,London,T004,London Emerging,Daniel Brooks,50-249,34200,Defect,Orphan Account,Medium,2,13500,No,Verified,Resolved
+A0100,Vale Capital,Vale Retail Holdings,Financial & Retail,Corporate,United Kingdom,South East,T010,South East Install,Marcus Flynn,250-999,33300,Defect,Missing Organization,Medium,2,13500,No,Pending,Open
+A0101,Quayside Training,Quayside Education Holdings,Education,Mid-Market,United Kingdom,London,T001,London Core,Marcus Flynn,"1,000-4,999",43100,Defect,Territory Misalignment,Medium,2,13300,Yes,Pending,In progress
+A0102,Hollowell Lending,Hollowell Banking Group,Financial & Retail,Enterprise,United Kingdom,Wales,T030,Wales Install,Sophie Reed,"1,000-4,999",41100,Defect,Missing Organization,Low,1,13200,Yes,Pending,In progress
+A0103,Clyde Card Services,Clyde Capital Partners,Financial & Retail,Mid-Market,United Kingdom,Scotland,T024,Scotland Emerging,Daniel Brooks,50-249,45300,Defect,Active Bid Misaligned,High,3,12400,No,Pending,In progress
+A0104,Bristol Payments,Bristol Retail Holdings,Financial & Retail,Enterprise,United Kingdom,North,T018,North Named,Marcus Flynn,250-999,36300,Defect,Active Bid Misaligned,High,3,12200,No,Unverified,Open
+A0105,Forth Institute,Forth Education Holdings,Education,Enterprise,Ireland,Munster,T040,Munster Install,Daniel Brooks,"5,000+",25100,Defect,Orphan Account,Low,1,12200,No,Unverified,Resolved
+A0106,Bristol Training,Bristol Learning Group,Education,Corporate,United Kingdom,South East,T007,South East Growth,Laura Bennett,250-999,42200,Defect,Orphan Account,Medium,2,12100,Yes,Unverified,In progress
+A0107,Wessex School,Wessex Education Trust,Education,Corporate,Ireland,Munster,T039,Munster Emerging,Aisha Khan,250-999,20700,Defect,Territory Misalignment,Medium,2,11500,No,Verified,In progress
+A0108,Forth Council Services,Forth Civic Partnership,Public Sector,Corporate,United Kingdom,London,T003,London Named,Daniel Brooks,50-249,25500,Defect,Duplicate Ownership,Medium,2,11400,Yes,Verified,Open
+A0109,Oakridge Nursery Group,Oakridge Education Trust,Education,Mid-Market,United Kingdom,Scotland,T025,Scotland Install,Priya Shah,250-999,40100,Defect,Duplicate Ownership,Medium,2,11400,Yes,Unverified,Resolved
+A0110,Albion Stores,Albion Banking Group,Financial & Retail,Corporate,United Kingdom,Midlands,T013,Midlands Named,Priya Shah,"1,000-4,999",43300,Defect,Orphan Account,Low,1,11300,Yes,Unverified,In progress
+A0111,Ironside Community Trust,Ironside Public Services Group,Public Sector,Mid-Market,Ireland,Munster,T038,Munster Named,Megan Walsh,50-249,34700,Defect,Wrong Segment,Low,1,11000,No,Verified,Resolved
+A0112,Clyde Library Service,Clyde Regional Authority,Public Sector,Corporate,United Kingdom,London,T002,London Growth,Ryan Cooper,50-249,28300,Defect,Wrong Parent,High,3,10800,No,Pending,Open
+A0113,Clyde Nursery Group,Clyde Education Trust,Education,Enterprise,Ireland,Dublin,T035,Dublin Install,Aisha Khan,250-999,31900,Defect,Duplicate Ownership,High,3,10800,No,Pending,Open
+A0114,Tamar Health Partnership,Tamar Civic Partnership,Public Sector,Enterprise,United Kingdom,London,T002,London Growth,Sophie Reed,"1,000-4,999",22400,Defect,Wrong Parent,Medium,2,10600,No,Unverified,In progress
+A0115,Granite Transport,Granite Regional Authority,Public Sector,Enterprise,United Kingdom,South East,T010,South East Install,Sophie Reed,50-249,39900,Defect,Wrong Parent,Medium,2,10500,No,Unverified,In progress
+A0116,Cavendish Learning Trust,Cavendish Academies Trust,Education,Enterprise,United Kingdom,North,T017,North Growth,Oliver Grant,"5,000+",31000,Defect,Orphan Account,Medium,2,10400,Yes,Verified,Resolved
+A0117,Elmwood Learning Trust,Elmwood Education Trust,Education,Corporate,Ireland,Dublin,T035,Dublin Install,Aisha Khan,250-999,19100,Defect,Orphan Account,Medium,2,10400,No,Unverified,Open
+A0118,Tamar Transport,Tamar Civic Partnership,Public Sector,Enterprise,Ireland,Dublin,T033,Dublin Named,Laura Bennett,50-249,35700,Defect,Missing Organization,Low,1,10400,No,Pending,Open
+A0119,Beacon Institute,Beacon Learning Group,Education,Enterprise,United Kingdom,Wales,T029,Wales Emerging,Daniel Brooks,"1,000-4,999",41700,Defect,Wrong Segment,Medium,2,10100,No,Pending,In progress
+A0120,Lancaster Transport,Lancaster Civic Partnership,Public Sector,Enterprise,United Kingdom,London,T005,London Install,Chloe Evans,50-249,31300,Defect,Closed Entity,Medium,2,10100,No,Verified,Resolved
+A0121,Norfolk Brokers,Norfolk Commerce Group plc,Financial & Retail,Corporate,United Kingdom,Wales,T026,Wales Core,Jamie Patel,250-999,48200,Defect,Closed Entity,High,3,9900,No,Verified,Open
+A0122,Sterling Brokers,Sterling Commerce Group plc,Financial & Retail,Corporate,United Kingdom,Midlands,T012,Midlands Growth,Daniel Brooks,250-999,21100,Defect,Wrong Segment,Low,1,9800,No,Unverified,Open
+A0123,Yarrow School,Yarrow Academies Trust,Education,Corporate,United Kingdom,South East,T009,South East Emerging,Priya Shah,"1,000-4,999",27100,Defect,Wrong Segment,Low,1,9600,No,Verified,Open
+A0124,Clyde Council Services,Clyde Government Services,Public Sector,Enterprise,United Kingdom,Wales,T029,Wales Emerging,Sophie Reed,"1,000-4,999",40200,Defect,Territory Misalignment,Low,1,9400,Yes,Pending,Resolved
+A0125,Lancaster Leasing,Lancaster Financial Group,Financial & Retail,Mid-Market,Ireland,Munster,T036,Munster Core,Priya Shah,250-999,31300,Defect,Territory Misalignment,High,3,9200,No,Verified,In progress
+A0126,Cavendish Community Trust,Cavendish Regional Authority,Public Sector,Mid-Market,United Kingdom,North,T016,North Core,Aisha Khan,50-249,28500,Defect,Duplicate Ownership,High,3,9100,Yes,Verified,Resolved
+A0127,Wessex Fire Service,Wessex Public Services Group,Public Sector,Strategic,United Kingdom,Wales,T026,Wales Core,Priya Shah,250-999,20900,Defect,Duplicate Ownership,High,3,9100,Yes,Unverified,In progress
+A0128,Albion Leasing,Albion Banking Group,Financial & Retail,Corporate,United Kingdom,Midlands,T012,Midlands Growth,Jamie Patel,50-249,39600,Defect,Duplicate Ownership,High,3,9000,No,Unverified,In progress
+A0129,Saxon Card Services,Saxon Commerce Group plc,Financial & Retail,Enterprise,United Kingdom,Scotland,T021,Scotland Core,Sophie Reed,250-999,18800,Defect,Territory Misalignment,Medium,2,8900,No,Verified,Resolved
+A0130,Harbour Institute,Harbour Education Trust,Education,Mid-Market,United Kingdom,North,T018,North Named,Oliver Grant,250-999,19900,Defect,Orphan Account,Medium,2,8800,No,Verified,Resolved
+A0131,Lancaster Trading,Lancaster Banking Group,Financial & Retail,Enterprise,United Kingdom,Scotland,T024,Scotland Emerging,Megan Walsh,50-249,18900,Defect,Duplicate Ownership,High,3,8500,Yes,Unverified,Open
+A0132,Oakridge Trading,Oakridge Banking Group,Financial & Retail,Enterprise,United Kingdom,Midlands,T014,Midlands Emerging,Ryan Cooper,250-999,10600,Defect,Orphan Account,Medium,2,7800,Yes,Pending,Resolved
+A0133,Albion School,Albion Academies Trust,Education,Corporate,United Kingdom,Midlands,T014,Midlands Emerging,Daniel Brooks,50-249,17400,Defect,Closed Entity,Medium,2,7600,Yes,Unverified,Open
+A0134,Oakridge Brokers,Oakridge Commerce Group plc,Financial & Retail,Enterprise,United Kingdom,South East,T009,South East Emerging,Daniel Brooks,250-999,36400,Defect,Duplicate Ownership,Medium,2,7600,No,Verified,In progress
+A0135,Westfield Community Trust,Westfield Regional Authority,Public Sector,Mid-Market,United Kingdom,Scotland,T024,Scotland Emerging,Chloe Evans,"1,000-4,999",30300,Defect,Active Bid Misaligned,High,3,7100,No,Unverified,Open
+A0136,Fairview Sixth Form,Fairview Education Holdings,Education,Mid-Market,United Kingdom,Midlands,T015,Midlands Install,Laura Bennett,50-249,23700,Defect,Missing Organization,Low,1,6800,No,Verified,In progress
+A0137,Elmwood Institute,Elmwood Learning Group,Education,Mid-Market,United Kingdom,London,T005,London Install,Laura Bennett,50-249,15700,Defect,Orphan Account,Medium,2,6300,No,Unverified,In progress
+A0138,Meridian Community Trust,Meridian Government Services,Public Sector,Corporate,United Kingdom,Midlands,T011,Midlands Core,Jamie Patel,250-999,34400,Defect,Active Bid Misaligned,High,3,6200,No,Unverified,In progress
+A0139,Pembroke Lending,Pembroke Financial Group,Financial & Retail,Mid-Market,United Kingdom,Wales,T028,Wales Named,Sophie Reed,250-999,38700,Defect,Duplicate Ownership,High,3,6200,No,Verified,In progress
+A0140,Elmwood Academy Trust,Elmwood Education Trust,Education,Enterprise,United Kingdom,London,T005,London Install,Chloe Evans,50-249,12800,Defect,Wrong Parent,Medium,2,6000,Yes,Verified,Open
+A0141,Norfolk Leasing,Norfolk Financial Group,Financial & Retail,Corporate,United Kingdom,Midlands,T012,Midlands Growth,Aisha Khan,50-249,24100,Defect,Duplicate Ownership,High,3,5900,No,Verified,In progress
+A0142,Severn Housing,Severn Public Services Group,Public Sector,Mid-Market,United Kingdom,Wales,T029,Wales Emerging,Chloe Evans,50-249,34500,Defect,Active Bid Misaligned,High,3,5900,Yes,Unverified,In progress
+A0143,Ulster Institute,Ulster Learning Group,Education,Mid-Market,United Kingdom,Scotland,T022,Scotland Growth,Megan Walsh,"1,000-4,999",36200,Defect,Wrong Segment,Low,1,5300,No,Pending,Open
+A0144,Meridian Payments,Meridian Retail Group plc,Financial & Retail,Corporate,United Kingdom,Wales,T027,Wales Growth,Hannah Cole,50-249,12100,Defect,Orphan Account,Low,1,4700,No,Unverified,Open
+A0145,Kestrel College,Kestrel Learning Group,Education,Corporate,United Kingdom,South East,T008,South East Named,Jamie Patel,250-999,13900,Defect,Wrong Parent,High,3,4600,Yes,Unverified,Open
+A0146,Redwood Brokers,Redwood Capital Partners,Financial & Retail,Enterprise,United Kingdom,Scotland,T022,Scotland Growth,Oliver Grant,50-249,19600,Defect,Orphan Account,Medium,2,4300,Yes,Unverified,In progress
+A0147,Thornbury Water,Thornbury Regional Authority,Public Sector,Corporate,United Kingdom,Scotland,T023,Scotland Named,Daniel Brooks,"1,000-4,999",11800,Defect,Active Bid Misaligned,High,3,4300,Yes,Pending,Open
+A0148,Westfield Retail,Westfield Banking Group,Financial & Retail,Enterprise,United Kingdom,North,T020,North Install,Laura Bennett,"5,000+",35400,Defect,Territory Misalignment,High,3,4100,No,Unverified,Resolved
+A0149,Brook Trading,Brook Banking Group,Financial & Retail,Corporate,United Kingdom,Midlands,T015,Midlands Install,Hannah Cole,"5,000+",32200,Defect,Duplicate Ownership,High,3,4000,No,Unverified,In progress
+A0150,Pembroke Card Services,Pembroke Capital Partners,Financial & Retail,Corporate,Ireland,Munster,T038,Munster Named,Sophie Reed,"1,000-4,999",34900,Defect,Territory Misalignment,Medium,2,4000,No,Verified,In progress
+A0151,Carlton Institute,Carlton Learning Group,Education,Corporate,United Kingdom,London,T001,London Core,Chloe Evans,50-249,13800,Defect,Active Bid Misaligned,High,3,3800,No,Verified,Open
+A0152,Tamar Sixth Form,Tamar Learning Group,Education,Corporate,United Kingdom,Midlands,T012,Midlands Growth,Priya Shah,"1,000-4,999",28700,Defect,Territory Misalignment,Low,1,3800,No,Pending,Resolved
+A0153,Regent Training,Regent Learning Group,Education,Enterprise,United Kingdom,London,T004,London Emerging,Oliver Grant,"1,000-4,999",18300,Defect,Active Bid Misaligned,High,3,3500,No,Unverified,Open
+A0154,Tamar Lending,Tamar Retail Holdings,Financial & Retail,Corporate,United Kingdom,Scotland,T024,Scotland Emerging,Daniel Brooks,"1,000-4,999",32200,Defect,Active Bid Misaligned,High,3,3500,Yes,Pending,Open
+A0155,Bristol Brokers,Bristol Retail Holdings,Financial & Retail,Mid-Market,United Kingdom,North,T020,North Install,Laura Bennett,50-249,25200,Defect,Wrong Parent,Medium,2,3400,No,Unverified,In progress
+A0156,Hollowell Trading,Hollowell Capital Partners,Financial & Retail,Mid-Market,United Kingdom,London,T005,London Install,Sophie Reed,50-249,13200,Defect,Wrong Parent,Medium,2,3400,No,Verified,In progress
+A0157,Oakridge Community Trust,Oakridge Public Services Group,Public Sector,Mid-Market,Ireland,Munster,T040,Munster Install,Priya Shah,50-249,35500,Defect,Duplicate Ownership,High,3,3400,No,Verified,In progress
+A0158,Forth Training,Forth Education Holdings,Education,Mid-Market,United Kingdom,Wales,T028,Wales Named,Priya Shah,50-249,27100,Defect,Wrong Parent,High,3,3300,Yes,Verified,Resolved
+A0159,Ulster Leasing,Ulster Retail Holdings,Financial & Retail,Enterprise,United Kingdom,North,T020,North Install,Laura Bennett,250-999,19600,Defect,Territory Misalignment,Low,1,3100,Yes,Unverified,Resolved
+A0160,Cavendish Nursery Group,Cavendish Learning Group,Education,Enterprise,United Kingdom,Scotland,T021,Scotland Core,Daniel Brooks,"5,000+",20800,Defect,Duplicate Ownership,High,3,2800,No,Pending,In progress
+A0161,Regent Sixth Form,Regent Academies Trust,Education,Strategic,United Kingdom,South East,T007,South East Growth,Laura Bennett,"5,000+",14800,Defect,Wrong Parent,Medium,2,2700,No,Unverified,In progress
+A0162,Meridian Academy Trust,Meridian Academies Trust,Education,Corporate,Ireland,Dublin,T033,Dublin Named,Laura Bennett,250-999,22300,Defect,Orphan Account,Medium,2,2600,Yes,Pending,In progress
+A0163,Lancaster Fire Service,Lancaster Public Services Group,Public Sector,Mid-Market,Ireland,Dublin,T031,Dublin Core,Aisha Khan,50-249,21900,Defect,Wrong Parent,High,3,2500,No,Verified,Resolved
+A0164,Kestrel Card Services,Kestrel Banking Group,Financial & Retail,Enterprise,Ireland,Dublin,T031,Dublin Core,Marcus Flynn,250-999,24900,Defect,Wrong Parent,High,3,2400,No,Verified,In progress
+A0165,Saxon School,Saxon Academies Trust,Education,Mid-Market,United Kingdom,London,T003,London Named,Laura Bennett,"1,000-4,999",15100,Defect,Territory Misalignment,High,3,2100,No,Verified,In progress
+A0166,Vale School,Vale Academies Trust,Education,Strategic,Ireland,Dublin,T031,Dublin Core,Laura Bennett,"5,000+",28800,Defect,Duplicate Ownership,High,3,2100,No,Pending,In progress
+A0167,Eden Health Partnership,Eden Civic Partnership,Public Sector,Mid-Market,United Kingdom,Midlands,T014,Midlands Emerging,Ryan Cooper,250-999,13700,Defect,Wrong Parent,High,3,2000,No,Verified,In progress
+A0168,Norfolk Water,Norfolk Civic Partnership,Public Sector,Mid-Market,United Kingdom,North,T018,North Named,Aisha Khan,50-249,11600,Defect,Territory Misalignment,High,3,2000,No,Pending,Open
+A0169,Sterling Trading,Sterling Commerce Group plc,Financial & Retail,Strategic,Ireland,Munster,T038,Munster Named,Daniel Brooks,250-999,32400,Defect,Wrong Segment,Medium,2,1700,No,Unverified,In progress
+A0170,Granite Learning Trust,Granite Education Holdings,Education,Mid-Market,United Kingdom,London,T004,London Emerging,Hannah Cole,50-249,17600,Defect,Duplicate Ownership,High,3,1200,No,Unverified,Open
+A0171,Albion Community Trust,Albion Regional Authority,Public Sector,Corporate,United Kingdom,North,T016,North Core,Aisha Khan,50-249,10900,Clean,None,None,0,0,No,Verified,Not required
+A0172,Albion Lending,Albion Retail Holdings,Financial & Retail,Strategic,United Kingdom,Scotland,T023,Scotland Named,Aisha Khan,50-249,29800,Clean,None,None,0,0,Yes,Verified,Not required
+A0173,Albion Sixth Form,Albion Learning Group,Education,Corporate,United Kingdom,Scotland,T023,Scotland Named,Daniel Brooks,250-999,20300,Clean,None,None,0,0,Yes,Verified,Not required
+A0174,Ashford Community Trust,Ashford Regional Authority,Public Sector,Corporate,Ireland,Munster,T036,Munster Core,Jamie Patel,250-999,28600,Clean,None,None,0,0,Yes,Verified,Not required
+A0175,Ashford Health Partnership,Ashford Regional Authority,Public Sector,Mid-Market,Ireland,Dublin,T033,Dublin Named,Daniel Brooks,250-999,26900,Clean,None,None,0,0,Yes,Verified,Not required
+A0176,Ashford Institute,Ashford Education Holdings,Education,Enterprise,United Kingdom,North,T017,North Growth,Jamie Patel,50-249,22400,Clean,None,None,0,0,No,Verified,Not required
+A0177,Ashford Nursery Group,Ashford Academies Trust,Education,Corporate,Ireland,Dublin,T035,Dublin Install,Priya Shah,"1,000-4,999",18300,Clean,None,None,0,0,Yes,Verified,Not required
+A0178,Ashford School,Ashford Education Trust,Education,Corporate,United Kingdom,North,T017,North Growth,Marcus Flynn,250-999,22000,Clean,None,None,0,0,No,Verified,Not required
+A0179,Ashford Stores,Ashford Financial Group,Financial & Retail,Mid-Market,United Kingdom,Scotland,T023,Scotland Named,Hannah Cole,50-249,21200,Clean,None,None,0,0,No,Verified,Not required
+A0180,Ashford Water,Ashford Civic Partnership,Public Sector,Mid-Market,United Kingdom,Wales,T027,Wales Growth,Priya Shah,250-999,21200,Clean,None,None,0,0,No,Verified,Not required
+A0181,Beacon Brokers,Beacon Capital Partners,Financial & Retail,Corporate,United Kingdom,Wales,T026,Wales Core,Daniel Brooks,50-249,11500,Clean,None,None,0,0,Yes,Verified,Not required
+A0182,Beacon Housing,Beacon Regional Authority,Public Sector,Corporate,Ireland,Dublin,T032,Dublin Growth,Jamie Patel,"1,000-4,999",7400,Clean,None,None,0,0,Yes,Verified,Not required
+A0183,Beacon Outlets,Beacon Banking Group,Financial & Retail,Corporate,United Kingdom,London,T001,London Core,Megan Walsh,50-249,30100,Clean,None,None,0,0,No,Verified,Not required
+A0184,Beacon Water,Beacon Civic Partnership,Public Sector,Mid-Market,United Kingdom,South East,T008,South East Named,Laura Bennett,50-249,11100,Clean,None,None,0,0,Yes,Verified,Not required
+A0185,Beacon Wealth,Beacon Capital Partners,Financial & Retail,Mid-Market,United Kingdom,North,T017,North Growth,Sophie Reed,250-999,18300,Clean,None,None,0,0,Yes,Verified,Not required
+A0186,Bristol Insurance,Bristol Financial Group,Financial & Retail,Enterprise,United Kingdom,London,T001,London Core,Laura Bennett,"1,000-4,999",10700,Clean,None,None,0,0,Yes,Verified,Not required
+A0187,Bristol Stores,Bristol Banking Group,Financial & Retail,Strategic,Ireland,Munster,T040,Munster Install,Megan Walsh,50-249,29400,Clean,None,None,0,0,No,Verified,Not required
+A0188,Brook Brokers,Brook Retail Holdings,Financial & Retail,Corporate,United Kingdom,Midlands,T014,Midlands Emerging,Daniel Brooks,250-999,21000,Clean,None,None,0,0,No,Verified,Not required
+A0189,Brook Card Services,Brook Commerce Group plc,Financial & Retail,Corporate,United Kingdom,North,T017,North Growth,Laura Bennett,"5,000+",22000,Clean,None,None,0,0,Yes,Verified,Not required
+A0190,Brook Council Services,Brook Civic Partnership,Public Sector,Enterprise,Ireland,Dublin,T035,Dublin Install,Marcus Flynn,"1,000-4,999",10300,Clean,None,None,0,0,No,Verified,Not required
+A0191,Brook Institute,Brook Education Holdings,Education,Mid-Market,Ireland,Dublin,T033,Dublin Named,Hannah Cole,"1,000-4,999",6500,Clean,None,None,0,0,Yes,Verified,Not required
+A0192,Brook Insurance,Brook Retail Holdings,Financial & Retail,Mid-Market,United Kingdom,London,T004,London Emerging,Hannah Cole,"1,000-4,999",25100,Clean,None,None,0,0,No,Verified,Not required
+A0193,Brook Leasing,Brook Banking Group,Financial & Retail,Enterprise,United Kingdom,South East,T007,South East Growth,Chloe Evans,"1,000-4,999",14500,Clean,None,None,0,0,No,Verified,Not required
+A0194,Brook Lending,Brook Capital Partners,Financial & Retail,Corporate,United Kingdom,Midlands,T011,Midlands Core,Daniel Brooks,250-999,22100,Clean,None,None,0,0,Yes,Verified,Not required
+A0195,Brook Library Service,Brook Regional Authority,Public Sector,Enterprise,Ireland,Munster,T040,Munster Install,Daniel Brooks,50-249,5500,Clean,None,None,0,0,Yes,Verified,Not required
+A0196,Brook Training,Brook Education Holdings,Education,Mid-Market,Ireland,Dublin,T033,Dublin Named,Chloe Evans,50-249,21700,Clean,None,None,0,0,Yes,Verified,Not required
+A0197,Brook Wealth,Brook Commerce Group plc,Financial & Retail,Mid-Market,United Kingdom,Midlands,T015,Midlands Install,Laura Bennett,50-249,20200,Clean,None,None,0,0,No,Verified,Not required
+A0198,Carlton Council Services,Carlton Regional Authority,Public Sector,Corporate,United Kingdom,Scotland,T024,Scotland Emerging,Jamie Patel,250-999,14500,Clean,None,None,0,0,Yes,Verified,Not required
+A0199,Carlton Fire Service,Carlton Civic Partnership,Public Sector,Mid-Market,Ireland,Dublin,T034,Dublin Emerging,Priya Shah,250-999,5300,Clean,None,None,0,0,No,Verified,Not required
+A0200,Carlton Insurance,Carlton Retail Group plc,Financial & Retail,Corporate,United Kingdom,North,T018,North Named,Megan Walsh,"5,000+",24000,Clean,None,None,0,0,No,Verified,Not required
+A0201,Carlton School,Carlton Academies Trust,Education,Mid-Market,United Kingdom,Scotland,T025,Scotland Install,Laura Bennett,250-999,24900,Clean,None,None,0,0,No,Verified,Not required
+A0202,Carlton Trading,Carlton Retail Holdings,Financial & Retail,Enterprise,United Kingdom,London,T002,London Growth,Sophie Reed,"1,000-4,999",16800,Clean,None,None,0,0,Yes,Verified,Not required
+A0203,Carlton Water,Carlton Government Services,Public Sector,Enterprise,United Kingdom,North,T018,North Named,Oliver Grant,"1,000-4,999",30700,Clean,None,None,0,0,Yes,Verified,Not required
+A0204,Cavendish Card Services,Cavendish Financial Group,Financial & Retail,Mid-Market,United Kingdom,South East,T010,South East Install,Daniel Brooks,250-999,12600,Clean,None,None,0,0,Yes,Verified,Not required
+A0205,Cavendish Fire Service,Cavendish Regional Authority,Public Sector,Corporate,Ireland,Dublin,T032,Dublin Growth,Ryan Cooper,"1,000-4,999",17000,Clean,None,None,0,0,Yes,Verified,Not required
+A0206,Cavendish Health Partnership,Cavendish Public Services Group,Public Sector,Enterprise,United Kingdom,Scotland,T023,Scotland Named,Daniel Brooks,250-999,13500,Clean,None,None,0,0,No,Verified,Not required
+A0207,Cavendish Library Service,Cavendish Regional Authority,Public Sector,Mid-Market,United Kingdom,Scotland,T022,Scotland Growth,Laura Bennett,50-249,14200,Clean,None,None,0,0,Yes,Verified,Not required
+A0208,Cavendish Payments,Cavendish Banking Group,Financial & Retail,Corporate,United Kingdom,Midlands,T015,Midlands Install,Megan Walsh,50-249,26600,Clean,None,None,0,0,Yes,Verified,Not required
+A0209,Cavendish Water,Cavendish Public Services Group,Public Sector,Corporate,United Kingdom,North,T016,North Core,Aisha Khan,50-249,22100,Clean,None,None,0,0,No,Verified,Not required
+A0210,Clyde Lending,Clyde Banking Group,Financial & Retail,Corporate,United Kingdom,Scotland,T025,Scotland Install,Hannah Cole,"5,000+",9200,Clean,None,None,0,0,No,Verified,Not required
+A0211,Clyde Sixth Form,Clyde Education Holdings,Education,Corporate,United Kingdom,Scotland,T021,Scotland Core,Daniel Brooks,"1,000-4,999",27500,Clean,None,None,0,0,No,Verified,Not required
+A0212,Clyde Transport,Clyde Regional Authority,Public Sector,Corporate,Ireland,Munster,T037,Munster Growth,Jamie Patel,"5,000+",7400,Clean,None,None,0,0,No,Verified,Not required
+A0213,Dorset Brokers,Dorset Capital Partners,Financial & Retail,Enterprise,United Kingdom,Wales,T029,Wales Emerging,Daniel Brooks,"1,000-4,999",17600,Clean,None,None,0,0,No,Verified,Not required
+A0214,Dorset College,Dorset Academies Trust,Education,Enterprise,United Kingdom,Midlands,T011,Midlands Core,Megan Walsh,"5,000+",11100,Clean,None,None,0,0,Yes,Verified,Not required
+A0215,Dorset Institute,Dorset Education Trust,Education,Corporate,United Kingdom,South East,T006,South East Core,Oliver Grant,50-249,12200,Clean,None,None,0,0,No,Verified,Not required
+A0216,Dorset Learning Trust,Dorset Education Trust,Education,Mid-Market,United Kingdom,North,T019,North Emerging,Daniel Brooks,"5,000+",13700,Clean,None,None,0,0,No,Verified,Not required
+A0217,Dorset School,Dorset Education Holdings,Education,Mid-Market,United Kingdom,Midlands,T014,Midlands Emerging,Daniel Brooks,50-249,6200,Clean,None,None,0,0,Yes,Verified,Not required
+A0218,Dunmore Brokers,Dunmore Retail Group plc,Financial & Retail,Mid-Market,United Kingdom,North,T016,North Core,Megan Walsh,250-999,18100,Clean,None,None,0,0,No,Verified,Not required
+A0219,Dunmore Fire Service,Dunmore Civic Partnership,Public Sector,Mid-Market,United Kingdom,Scotland,T024,Scotland Emerging,Daniel Brooks,"1,000-4,999",22900,Clean,None,None,0,0,No,Verified,Not required
+A0220,Dunmore Lending,Dunmore Banking Group,Financial & Retail,Enterprise,United Kingdom,South East,T010,South East Install,Daniel Brooks,250-999,26000,Clean,None,None,0,0,Yes,Verified,Not required
+A0221,Dunmore Retail,Dunmore Banking Group,Financial & Retail,Enterprise,United Kingdom,Scotland,T021,Scotland Core,Jamie Patel,50-249,27600,Clean,None,None,0,0,No,Verified,Not required
+A0222,Eden Capital,Eden Commerce Group plc,Financial & Retail,Mid-Market,United Kingdom,North,T019,North Emerging,Chloe Evans,"1,000-4,999",21200,Clean,None,None,0,0,Yes,Verified,Not required
+A0223,Eden Council Services,Eden Civic Partnership,Public Sector,Mid-Market,United Kingdom,North,T018,North Named,Priya Shah,50-249,8900,Clean,None,None,0,0,No,Verified,Not required
+A0224,Eden Institute,Eden Learning Group,Education,Mid-Market,United Kingdom,Midlands,T014,Midlands Emerging,Ryan Cooper,50-249,10700,Clean,None,None,0,0,No,Verified,Not required
+A0225,Eden Learning Trust,Eden Education Holdings,Education,Mid-Market,Ireland,Dublin,T032,Dublin Growth,Oliver Grant,"1,000-4,999",10400,Clean,None,None,0,0,No,Verified,Not required
+A0226,Eden Leasing,Eden Financial Group,Financial & Retail,Enterprise,United Kingdom,Wales,T028,Wales Named,Priya Shah,250-999,28800,Clean,None,None,0,0,No,Verified,Not required
+A0227,Eden Lending,Eden Banking Group,Financial & Retail,Corporate,Ireland,Munster,T036,Munster Core,Priya Shah,"1,000-4,999",15300,Clean,None,None,0,0,No,Verified,Not required
+A0228,Elmwood Health Partnership,Elmwood Civic Partnership,Public Sector,Corporate,United Kingdom,Midlands,T014,Midlands Emerging,Megan Walsh,250-999,7900,Clean,None,None,0,0,No,Verified,Not required
+A0229,Elmwood Lending,Elmwood Banking Group,Financial & Retail,Mid-Market,United Kingdom,Scotland,T024,Scotland Emerging,Sophie Reed,"5,000+",15900,Clean,None,None,0,0,No,Verified,Not required
+A0230,Fairview College,Fairview Learning Group,Education,Enterprise,United Kingdom,Midlands,T012,Midlands Growth,Daniel Brooks,"5,000+",17800,Clean,None,None,0,0,No,Verified,Not required
+A0231,Fairview Health Partnership,Fairview Government Services,Public Sector,Strategic,United Kingdom,London,T002,London Growth,Laura Bennett,"1,000-4,999",5400,Clean,None,None,0,0,Yes,Verified,Not required
+A0232,Fairview Transport,Fairview Government Services,Public Sector,Strategic,United Kingdom,Wales,T030,Wales Install,Megan Walsh,"5,000+",9600,Clean,None,None,0,0,Yes,Verified,Not required
+A0233,Forth Health Partnership,Forth Public Services Group,Public Sector,Enterprise,United Kingdom,Wales,T026,Wales Core,Marcus Flynn,50-249,7400,Clean,None,None,0,0,No,Verified,Not required
+A0234,Forth Library Service,Forth Government Services,Public Sector,Enterprise,United Kingdom,Midlands,T015,Midlands Install,Priya Shah,50-249,26900,Clean,None,None,0,0,Yes,Verified,Not required
+A0235,Forth School,Forth Education Holdings,Education,Corporate,United Kingdom,Wales,T030,Wales Install,Sophie Reed,"5,000+",27100,Clean,None,None,0,0,No,Verified,Not required
+A0236,Forth Sixth Form,Forth Education Trust,Education,Mid-Market,United Kingdom,North,T018,North Named,Oliver Grant,50-249,6800,Clean,None,None,0,0,No,Verified,Not required
+A0237,Forth Water,Forth Public Services Group,Public Sector,Mid-Market,United Kingdom,South East,T008,South East Named,Sophie Reed,250-999,13900,Clean,None,None,0,0,No,Verified,Not required
+A0238,Granite Brokers,Granite Capital Partners,Financial & Retail,Enterprise,United Kingdom,Wales,T027,Wales Growth,Daniel Brooks,50-249,7900,Clean,None,None,0,0,No,Verified,Not required
+A0239,Granite Capital,Granite Retail Group plc,Financial & Retail,Corporate,United Kingdom,North,T017,North Growth,Priya Shah,50-249,7600,Clean,None,None,0,0,No,Verified,Not required
+A0240,Granite Insurance,Granite Retail Group plc,Financial & Retail,Enterprise,United Kingdom,North,T019,North Emerging,Ryan Cooper,50-249,10200,Clean,None,None,0,0,Yes,Verified,Not required
+A0241,Granite Leasing,Granite Financial Group,Financial & Retail,Corporate,United Kingdom,Scotland,T024,Scotland Emerging,Hannah Cole,"1,000-4,999",26600,Clean,None,None,0,0,No,Verified,Not required
+A0242,Granite School,Granite Education Trust,Education,Enterprise,United Kingdom,Scotland,T022,Scotland Growth,Laura Bennett,50-249,20900,Clean,None,None,0,0,No,Verified,Not required
+A0243,Harbour Capital,Harbour Commerce Group plc,Financial & Retail,Mid-Market,United Kingdom,South East,T008,South East Named,Priya Shah,"1,000-4,999",27800,Clean,None,None,0,0,No,Verified,Not required
+A0244,Harbour College,Harbour Education Holdings,Education,Corporate,United Kingdom,South East,T010,South East Install,Priya Shah,50-249,8700,Clean,None,None,0,0,No,Verified,Not required
+A0245,Harbour Fire Service,Harbour Public Services Group,Public Sector,Mid-Market,United Kingdom,London,T004,London Emerging,Marcus Flynn,50-249,11100,Clean,None,None,0,0,No,Verified,Not required
+A0246,Harbour Housing,Harbour Public Services Group,Public Sector,Enterprise,Ireland,Munster,T039,Munster Emerging,Chloe Evans,50-249,11100,Clean,None,None,0,0,Yes,Verified,Not required
+A0247,Harbour Library Service,Harbour Civic Partnership,Public Sector,Enterprise,Ireland,Munster,T037,Munster Growth,Ryan Cooper,250-999,10400,Clean,None,None,0,0,No,Verified,Not required
+A0248,Harbour Sixth Form,Harbour Education Holdings,Education,Mid-Market,United Kingdom,Scotland,T022,Scotland Growth,Daniel Brooks,250-999,21600,Clean,None,None,0,0,No,Verified,Not required
+A0249,Harbour Trading,Harbour Financial Group,Financial & Retail,Corporate,United Kingdom,Scotland,T025,Scotland Install,Sophie Reed,50-249,17100,Clean,None,None,0,0,Yes,Verified,Not required
+A0250,Harbour Training,Harbour Education Holdings,Education,Enterprise,United Kingdom,Wales,T028,Wales Named,Sophie Reed,50-249,15100,Clean,None,None,0,0,No,Verified,Not required
+A0251,Harbour Transport,Harbour Government Services,Public Sector,Corporate,Ireland,Dublin,T032,Dublin Growth,Daniel Brooks,50-249,29600,Clean,None,None,0,0,Yes,Verified,Not required
+A0252,Harbour Water,Harbour Civic Partnership,Public Sector,Corporate,Ireland,Munster,T037,Munster Growth,Megan Walsh,"1,000-4,999",13900,Clean,None,None,0,0,No,Verified,Not required
+A0253,Harbour Wealth,Harbour Retail Holdings,Financial & Retail,Mid-Market,United Kingdom,North,T019,North Emerging,Sophie Reed,50-249,27600,Clean,None,None,0,0,No,Verified,Not required
+A0254,Hollowell Academy Trust,Hollowell Learning Group,Education,Corporate,United Kingdom,Midlands,T014,Midlands Emerging,Daniel Brooks,50-249,15000,Clean,None,None,0,0,No,Verified,Not required
+A0255,Hollowell College,Hollowell Education Holdings,Education,Mid-Market,United Kingdom,North,T017,North Growth,Ryan Cooper,"5,000+",17800,Clean,None,None,0,0,Yes,Verified,Not required
+A0256,Hollowell Health Partnership,Hollowell Public Services Group,Public Sector,Mid-Market,United Kingdom,North,T020,North Install,Sophie Reed,"1,000-4,999",28100,Clean,None,None,0,0,No,Verified,Not required
+A0257,Hollowell Institute,Hollowell Education Trust,Education,Strategic,United Kingdom,South East,T008,South East Named,Aisha Khan,50-249,29100,Clean,None,None,0,0,No,Verified,Not required
+A0258,Hollowell Library Service,Hollowell Regional Authority,Public Sector,Enterprise,United Kingdom,Midlands,T015,Midlands Install,Hannah Cole,250-999,12800,Clean,None,None,0,0,No,Verified,Not required
+A0259,Hollowell Sixth Form,Hollowell Academies Trust,Education,Corporate,Ireland,Dublin,T033,Dublin Named,Daniel Brooks,"1,000-4,999",12100,Clean,None,None,0,0,No,Verified,Not required
+A0260,Hollowell Transport,Hollowell Civic Partnership,Public Sector,Mid-Market,United Kingdom,Midlands,T015,Midlands Install,Jamie Patel,250-999,21500,Clean,None,None,0,0,No,Verified,Not required
+A0261,Ironside Academy Trust,Ironside Education Holdings,Education,Enterprise,United Kingdom,Scotland,T022,Scotland Growth,Chloe Evans,250-999,13000,Clean,None,None,0,0,Yes,Verified,Not required
+A0262,Ironside Brokers,Ironside Financial Group,Financial & Retail,Corporate,Ireland,Munster,T037,Munster Growth,Jamie Patel,"1,000-4,999",11500,Clean,None,None,0,0,Yes,Verified,Not required
+A0263,Ironside Card Services,Ironside Retail Holdings,Financial & Retail,Corporate,United Kingdom,North,T019,North Emerging,Daniel Brooks,250-999,11600,Clean,None,None,0,0,No,Verified,Not required
+A0264,Ironside College,Ironside Learning Group,Education,Mid-Market,United Kingdom,London,T002,London Growth,Marcus Flynn,50-249,31600,Clean,None,None,0,0,Yes,Verified,Not required
+A0265,Ironside Fire Service,Ironside Public Services Group,Public Sector,Enterprise,United Kingdom,Midlands,T011,Midlands Core,Marcus Flynn,50-249,31000,Clean,None,None,0,0,Yes,Verified,Not required
+A0266,Ironside Housing,Ironside Civic Partnership,Public Sector,Mid-Market,United Kingdom,Midlands,T015,Midlands Install,Daniel Brooks,250-999,28900,Clean,None,None,0,0,No,Verified,Not required
+A0267,Ironside Lending,Ironside Commerce Group plc,Financial & Retail,Mid-Market,United Kingdom,South East,T008,South East Named,Sophie Reed,50-249,5600,Clean,None,None,0,0,No,Verified,Not required
+A0268,Ironside Nursery Group,Ironside Learning Group,Education,Mid-Market,United Kingdom,Wales,T026,Wales Core,Megan Walsh,250-999,22800,Clean,None,None,0,0,No,Verified,Not required
+A0269,Ironside Outlets,Ironside Commerce Group plc,Financial & Retail,Enterprise,United Kingdom,Midlands,T011,Midlands Core,Priya Shah,"1,000-4,999",17500,Clean,None,None,0,0,No,Verified,Not required
+A0270,Ironside Retail,Ironside Commerce Group plc,Financial & Retail,Mid-Market,United Kingdom,North,T019,North Emerging,Priya Shah,250-999,10300,Clean,None,None,0,0,Yes,Verified,Not required
+A0271,Ironside Trading,Ironside Retail Group plc,Financial & Retail,Corporate,United Kingdom,Wales,T030,Wales Install,Chloe Evans,"1,000-4,999",27900,Clean,None,None,0,0,No,Verified,Not required
+A0272,Juniper Capital,Juniper Retail Group plc,Financial & Retail,Enterprise,United Kingdom,North,T020,North Install,Megan Walsh,250-999,14200,Clean,None,None,0,0,No,Verified,Not required
+A0273,Juniper Council Services,Juniper Regional Authority,Public Sector,Mid-Market,Ireland,Munster,T036,Munster Core,Jamie Patel,"5,000+",19500,Clean,None,None,0,0,Yes,Verified,Not required
+A0274,Juniper Housing,Juniper Public Services Group,Public Sector,Strategic,United Kingdom,London,T001,London Core,Oliver Grant,250-999,19700,Clean,None,None,0,0,No,Verified,Not required
+A0275,Juniper Lending,Juniper Retail Group plc,Financial & Retail,Corporate,United Kingdom,South East,T008,South East Named,Oliver Grant,"1,000-4,999",30300,Clean,None,None,0,0,No,Verified,Not required
+A0276,Juniper Nursery Group,Juniper Education Trust,Education,Mid-Market,United Kingdom,Scotland,T024,Scotland Emerging,Laura Bennett,250-999,6000,Clean,None,None,0,0,No,Verified,Not required
+A0277,Juniper Trading,Juniper Retail Holdings,Financial & Retail,Strategic,United Kingdom,North,T018,North Named,Daniel Brooks,250-999,30200,Clean,None,None,0,0,No,Verified,Not required
+A0278,Juniper Training,Juniper Education Trust,Education,Mid-Market,United Kingdom,London,T003,London Named,Laura Bennett,50-249,19800,Clean,None,None,0,0,No,Verified,Not required
+A0279,Juniper Transport,Juniper Public Services Group,Public Sector,Strategic,Ireland,Dublin,T031,Dublin Core,Hannah Cole,"5,000+",12400,Clean,None,None,0,0,Yes,Verified,Not required
+A0280,Juniper Wealth,Juniper Retail Group plc,Financial & Retail,Mid-Market,Ireland,Munster,T037,Munster Growth,Daniel Brooks,50-249,9500,Clean,None,None,0,0,No,Verified,Not required
+A0281,Kestrel Capital,Kestrel Retail Group plc,Financial & Retail,Mid-Market,United Kingdom,Scotland,T021,Scotland Core,Ryan Cooper,250-999,19800,Clean,None,None,0,0,No,Verified,Not required
+A0282,Kestrel Health Partnership,Kestrel Regional Authority,Public Sector,Corporate,Ireland,Dublin,T032,Dublin Growth,Priya Shah,250-999,9600,Clean,None,None,0,0,Yes,Verified,Not required
+A0283,Kestrel Institute,Kestrel Learning Group,Education,Strategic,United Kingdom,North,T019,North Emerging,Marcus Flynn,50-249,10100,Clean,None,None,0,0,No,Verified,Not required
+A0284,Kestrel Learning Trust,Kestrel Education Holdings,Education,Corporate,United Kingdom,Scotland,T023,Scotland Named,Chloe Evans,50-249,28000,Clean,None,None,0,0,No,Verified,Not required
+A0285,Kestrel Payments,Kestrel Banking Group,Financial & Retail,Mid-Market,United Kingdom,South East,T006,South East Core,Oliver Grant,250-999,11300,Clean,None,None,0,0,No,Verified,Not required
+A0286,Kestrel Retail,Kestrel Retail Group plc,Financial & Retail,Corporate,United Kingdom,South East,T007,South East Growth,Marcus Flynn,50-249,5700,Clean,None,None,0,0,No,Verified,Not required
+A0287,Kestrel Stores,Kestrel Retail Holdings,Financial & Retail,Corporate,Ireland,Munster,T036,Munster Core,Daniel Brooks,50-249,9700,Clean,None,None,0,0,No,Verified,Not required
+A0288,Kestrel Training,Kestrel Education Holdings,Education,Enterprise,United Kingdom,South East,T007,South East Growth,Daniel Brooks,250-999,14400,Clean,None,None,0,0,No,Verified,Not required
+A0289,Kestrel Wealth,Kestrel Retail Group plc,Financial & Retail,Corporate,United Kingdom,Midlands,T013,Midlands Named,Hannah Cole,250-999,23300,Clean,None,None,0,0,No,Verified,Not required
+A0290,Lancaster College,Lancaster Academies Trust,Education,Mid-Market,United Kingdom,North,T017,North Growth,Oliver Grant,250-999,9900,Clean,None,None,0,0,No,Verified,Not required
+A0291,Lancaster Insurance,Lancaster Banking Group,Financial & Retail,Corporate,Ireland,Dublin,T031,Dublin Core,Laura Bennett,50-249,24500,Clean,None,None,0,0,No,Verified,Not required
+A0292,Lancaster Lending,Lancaster Retail Group plc,Financial & Retail,Mid-Market,United Kingdom,Wales,T029,Wales Emerging,Daniel Brooks,250-999,12000,Clean,None,None,0,0,No,Verified,Not required
+A0293,Meridian Fire Service,Meridian Regional Authority,Public Sector,Enterprise,United Kingdom,North,T017,North Growth,Hannah Cole,"1,000-4,999",8200,Clean,None,None,0,0,No,Verified,Not required
+A0294,Meridian Health Partnership,Meridian Government Services,Public Sector,Enterprise,United Kingdom,Wales,T028,Wales Named,Priya Shah,"1,000-4,999",20500,Clean,None,None,0,0,No,Verified,Not required
+A0295,Meridian Institute,Meridian Learning Group,Education,Mid-Market,Ireland,Munster,T036,Munster Core,Priya Shah,50-249,13900,Clean,None,None,0,0,No,Verified,Not required
+A0296,Meridian Outlets,Meridian Commerce Group plc,Financial & Retail,Mid-Market,United Kingdom,Wales,T027,Wales Growth,Megan Walsh,50-249,29300,Clean,None,None,0,0,No,Verified,Not required
+A0297,Meridian Retail,Meridian Commerce Group plc,Financial & Retail,Enterprise,United Kingdom,South East,T007,South East Growth,Daniel Brooks,50-249,15600,Clean,None,None,0,0,Yes,Verified,Not required
+A0298,Meridian Sixth Form,Meridian Education Trust,Education,Corporate,United Kingdom,Scotland,T025,Scotland Install,Priya Shah,50-249,21700,Clean,None,None,0,0,No,Verified,Not required
+A0299,Meridian Stores,Meridian Retail Holdings,Financial & Retail,Enterprise,United Kingdom,Scotland,T021,Scotland Core,Daniel Brooks,250-999,25100,Clean,None,None,0,0,Yes,Verified,Not required
+A0300,Norfolk College,Norfolk Learning Group,Education,Enterprise,United Kingdom,North,T018,North Named,Daniel Brooks,"5,000+",20400,Clean,None,None,0,0,No,Verified,Not required
+A0301,Norfolk Outlets,Norfolk Financial Group,Financial & Retail,Mid-Market,United Kingdom,Midlands,T013,Midlands Named,Marcus Flynn,50-249,14500,Clean,None,None,0,0,No,Verified,Not required
+A0302,Norfolk Payments,Norfolk Retail Group plc,Financial & Retail,Mid-Market,United Kingdom,Scotland,T024,Scotland Emerging,Daniel Brooks,250-999,15800,Clean,None,None,0,0,Yes,Verified,Not required
+A0303,Norfolk School,Norfolk Education Trust,Education,Corporate,United Kingdom,Midlands,T014,Midlands Emerging,Priya Shah,250-999,6100,Clean,None,None,0,0,No,Verified,Not required
+A0304,Norfolk Trading,Norfolk Financial Group,Financial & Retail,Mid-Market,United Kingdom,Midlands,T013,Midlands Named,Laura Bennett,50-249,11700,Clean,None,None,0,0,No,Verified,Not required
+A0305,Oakridge Academy Trust,Oakridge Academies Trust,Education,Corporate,United Kingdom,London,T003,London Named,Ryan Cooper,50-249,17400,Clean,None,None,0,0,No,Verified,Not required
+A0306,Oakridge Council Services,Oakridge Civic Partnership,Public Sector,Corporate,United Kingdom,North,T019,North Emerging,Sophie Reed,"1,000-4,999",20100,Clean,None,None,0,0,No,Verified,Not required
+A0307,Oakridge Housing,Oakridge Regional Authority,Public Sector,Corporate,United Kingdom,Scotland,T021,Scotland Core,Daniel Brooks,250-999,27000,Clean,None,None,0,0,Yes,Verified,Not required
+A0308,Oakridge Learning Trust,Oakridge Academies Trust,Education,Enterprise,United Kingdom,Midlands,T013,Midlands Named,Ryan Cooper,50-249,17800,Clean,None,None,0,0,No,Verified,Not required
+A0309,Oakridge Lending,Oakridge Retail Group plc,Financial & Retail,Corporate,United Kingdom,Scotland,T023,Scotland Named,Marcus Flynn,"1,000-4,999",28200,Clean,None,None,0,0,No,Verified,Not required
+A0310,Oakridge Water,Oakridge Civic Partnership,Public Sector,Mid-Market,Ireland,Munster,T038,Munster Named,Aisha Khan,50-249,5000,Clean,None,None,0,0,Yes,Verified,Not required
+A0311,Pembroke Capital,Pembroke Banking Group,Financial & Retail,Corporate,United Kingdom,North,T020,North Install,Chloe Evans,250-999,23300,Clean,None,None,0,0,No,Verified,Not required
+A0312,Pembroke Housing,Pembroke Public Services Group,Public Sector,Enterprise,United Kingdom,Scotland,T021,Scotland Core,Aisha Khan,50-249,14500,Clean,None,None,0,0,Yes,Verified,Not required
+A0313,Pembroke Retail,Pembroke Retail Group plc,Financial & Retail,Enterprise,United Kingdom,London,T003,London Named,Daniel Brooks,"1,000-4,999",6200,Clean,None,None,0,0,No,Verified,Not required
+A0314,Pembroke School,Pembroke Academies Trust,Education,Corporate,United Kingdom,South East,T009,South East Emerging,Sophie Reed,250-999,28100,Clean,None,None,0,0,Yes,Verified,Not required
+A0315,Pembroke Sixth Form,Pembroke Learning Group,Education,Strategic,United Kingdom,Scotland,T021,Scotland Core,Jamie Patel,250-999,8700,Clean,None,None,0,0,No,Verified,Not required
+A0316,Pembroke Water,Pembroke Government Services,Public Sector,Mid-Market,Ireland,Dublin,T033,Dublin Named,Megan Walsh,"5,000+",12500,Clean,None,None,0,0,No,Verified,Not required
+A0317,Pinnacle Academy Trust,Pinnacle Education Holdings,Education,Corporate,United Kingdom,London,T001,London Core,Jamie Patel,50-249,8100,Clean,None,None,0,0,No,Verified,Not required
+A0318,Pinnacle College,Pinnacle Education Trust,Education,Enterprise,United Kingdom,Scotland,T022,Scotland Growth,Laura Bennett,50-249,12100,Clean,None,None,0,0,No,Verified,Not required
+A0319,Pinnacle Fire Service,Pinnacle Civic Partnership,Public Sector,Mid-Market,United Kingdom,Midlands,T014,Midlands Emerging,Priya Shah,250-999,6800,Clean,None,None,0,0,No,Verified,Not required
+A0320,Pinnacle Library Service,Pinnacle Regional Authority,Public Sector,Corporate,United Kingdom,Scotland,T021,Scotland Core,Ryan Cooper,250-999,19600,Clean,None,None,0,0,Yes,Verified,Not required
+A0321,Pinnacle Outlets,Pinnacle Retail Holdings,Financial & Retail,Mid-Market,United Kingdom,North,T019,North Emerging,Daniel Brooks,50-249,14700,Clean,None,None,0,0,No,Verified,Not required
+A0322,Pinnacle Sixth Form,Pinnacle Academies Trust,Education,Strategic,United Kingdom,North,T020,North Install,Oliver Grant,"1,000-4,999",18500,Clean,None,None,0,0,No,Verified,Not required
+A0323,Pinnacle Transport,Pinnacle Civic Partnership,Public Sector,Enterprise,Ireland,Dublin,T033,Dublin Named,Aisha Khan,250-999,6400,Clean,None,None,0,0,No,Verified,Not required
+A0324,Pinnacle Water,Pinnacle Public Services Group,Public Sector,Corporate,United Kingdom,Midlands,T015,Midlands Install,Aisha Khan,50-249,29900,Clean,None,None,0,0,No,Verified,Not required
+A0325,Pinnacle Wealth,Pinnacle Retail Holdings,Financial & Retail,Mid-Market,Ireland,Munster,T037,Munster Growth,Priya Shah,250-999,29300,Clean,None,None,0,0,No,Verified,Not required
+A0326,Quayside Community Trust,Quayside Regional Authority,Public Sector,Corporate,United Kingdom,Wales,T030,Wales Install,Sophie Reed,50-249,7100,Clean,None,None,0,0,No,Verified,Not required
+A0327,Quayside Council Services,Quayside Government Services,Public Sector,Mid-Market,Ireland,Munster,T036,Munster Core,Priya Shah,"1,000-4,999",17600,Clean,None,None,0,0,No,Verified,Not required
+A0328,Quayside Health Partnership,Quayside Civic Partnership,Public Sector,Corporate,Ireland,Dublin,T033,Dublin Named,Priya Shah,50-249,9000,Clean,None,None,0,0,No,Verified,Not required
+A0329,Quayside Institute,Quayside Education Trust,Education,Corporate,United Kingdom,Midlands,T013,Midlands Named,Hannah Cole,50-249,16900,Clean,None,None,0,0,No,Verified,Not required
+A0330,Quayside Nursery Group,Quayside Education Trust,Education,Corporate,United Kingdom,South East,T008,South East Named,Daniel Brooks,250-999,8000,Clean,None,None,0,0,No,Verified,Not required
+A0331,Quayside Payments,Quayside Retail Holdings,Financial & Retail,Enterprise,Ireland,Dublin,T031,Dublin Core,Hannah Cole,50-249,26300,Clean,None,None,0,0,No,Verified,Not required
+A0332,Quayside Trading,Quayside Banking Group,Financial & Retail,Enterprise,Ireland,Dublin,T033,Dublin Named,Laura Bennett,"1,000-4,999",20000,Clean,None,None,0,0,Yes,Verified,Not required
+A0333,Redwood Health Partnership,Redwood Government Services,Public Sector,Strategic,United Kingdom,Midlands,T014,Midlands Emerging,Jamie Patel,"5,000+",5900,Clean,None,None,0,0,Yes,Verified,Not required
+A0334,Redwood Housing,Redwood Civic Partnership,Public Sector,Corporate,United Kingdom,Wales,T026,Wales Core,Priya Shah,50-249,27400,Clean,None,None,0,0,No,Verified,Not required
+A0335,Redwood Institute,Redwood Learning Group,Education,Corporate,Ireland,Munster,T038,Munster Named,Daniel Brooks,250-999,21900,Clean,None,None,0,0,No,Verified,Not required
+A0336,Redwood Nursery Group,Redwood Learning Group,Education,Enterprise,United Kingdom,Midlands,T014,Midlands Emerging,Priya Shah,250-999,9200,Clean,None,None,0,0,No,Verified,Not required
+A0337,Redwood Stores,Redwood Commerce Group plc,Financial & Retail,Mid-Market,United Kingdom,Wales,T030,Wales Install,Priya Shah,"5,000+",10900,Clean,None,None,0,0,No,Verified,Not required
+A0338,Regent Card Services,Regent Capital Partners,Financial & Retail,Mid-Market,United Kingdom,North,T017,North Growth,Daniel Brooks,50-249,15700,Clean,None,None,0,0,No,Verified,Not required
+A0339,Regent Insurance,Regent Capital Partners,Financial & Retail,Corporate,Ireland,Dublin,T035,Dublin Install,Oliver Grant,"1,000-4,999",32100,Clean,None,None,0,0,No,Verified,Not required
+A0340,Regent Nursery Group,Regent Education Holdings,Education,Corporate,United Kingdom,South East,T010,South East Install,Daniel Brooks,"1,000-4,999",9000,Clean,None,None,0,0,Yes,Verified,Not required
+A0341,Regent Trading,Regent Retail Group plc,Financial & Retail,Mid-Market,United Kingdom,Wales,T026,Wales Core,Chloe Evans,250-999,18300,Clean,None,None,0,0,No,Verified,Not required
+A0342,Regent Water,Regent Government Services,Public Sector,Corporate,Ireland,Munster,T037,Munster Growth,Marcus Flynn,"5,000+",18200,Clean,None,None,0,0,Yes,Verified,Not required
+A0343,Regent Wealth,Regent Capital Partners,Financial & Retail,Enterprise,Ireland,Munster,T037,Munster Growth,Sophie Reed,250-999,6000,Clean,None,None,0,0,No,Verified,Not required
+A0344,Saxon Academy Trust,Saxon Education Holdings,Education,Corporate,United Kingdom,North,T018,North Named,Sophie Reed,50-249,27900,Clean,None,None,0,0,Yes,Verified,Not required
+A0345,Saxon Capital,Saxon Retail Holdings,Financial & Retail,Enterprise,United Kingdom,North,T018,North Named,Sophie Reed,50-249,5500,Clean,None,None,0,0,Yes,Verified,Not required
+A0346,Saxon College,Saxon Education Holdings,Education,Enterprise,United Kingdom,Midlands,T013,Midlands Named,Megan Walsh,50-249,9700,Clean,None,None,0,0,No,Verified,Not required
+A0347,Saxon Health Partnership,Saxon Regional Authority,Public Sector,Corporate,United Kingdom,London,T002,London Growth,Jamie Patel,"1,000-4,999",14800,Clean,None,None,0,0,No,Verified,Not required
+A0348,Saxon Learning Trust,Saxon Learning Group,Education,Corporate,United Kingdom,Midlands,T015,Midlands Install,Aisha Khan,"5,000+",28300,Clean,None,None,0,0,Yes,Verified,Not required
+A0349,Saxon Sixth Form,Saxon Academies Trust,Education,Mid-Market,Ireland,Munster,T039,Munster Emerging,Priya Shah,250-999,12500,Clean,None,None,0,0,No,Verified,Not required
+A0350,Severn College,Severn Education Trust,Education,Mid-Market,Ireland,Dublin,T033,Dublin Named,Megan Walsh,250-999,6200,Clean,None,None,0,0,No,Verified,Not required
+A0351,Severn Council Services,Severn Government Services,Public Sector,Enterprise,United Kingdom,Wales,T028,Wales Named,Priya Shah,50-249,9100,Clean,None,None,0,0,No,Verified,Not required
+A0352,Severn Stores,Severn Financial Group,Financial & Retail,Corporate,United Kingdom,Midlands,T012,Midlands Growth,Laura Bennett,250-999,8000,Clean,None,None,0,0,No,Verified,Not required
+A0353,Severn Trading,Severn Commerce Group plc,Financial & Retail,Corporate,United Kingdom,Wales,T029,Wales Emerging,Priya Shah,250-999,23300,Clean,None,None,0,0,No,Verified,Not required
+A0354,Severn Transport,Severn Public Services Group,Public Sector,Corporate,United Kingdom,Midlands,T011,Midlands Core,Jamie Patel,250-999,28600,Clean,None,None,0,0,No,Verified,Not required
+A0355,Severn Wealth,Severn Financial Group,Financial & Retail,Corporate,Ireland,Munster,T036,Munster Core,Daniel Brooks,50-249,14700,Clean,None,None,0,0,No,Verified,Not required
+A0356,Sterling Capital,Sterling Retail Group plc,Financial & Retail,Mid-Market,United Kingdom,Midlands,T013,Midlands Named,Daniel Brooks,"1,000-4,999",24100,Clean,None,None,0,0,No,Verified,Not required
+A0357,Sterling Card Services,Sterling Commerce Group plc,Financial & Retail,Corporate,United Kingdom,Midlands,T015,Midlands Install,Priya Shah,250-999,21200,Clean,None,None,0,0,No,Verified,Not required
+A0358,Sterling College,Sterling Education Holdings,Education,Mid-Market,United Kingdom,North,T018,North Named,Daniel Brooks,50-249,21700,Clean,None,None,0,0,Yes,Verified,Not required
+A0359,Sterling Insurance,Sterling Retail Holdings,Financial & Retail,Mid-Market,Ireland,Munster,T039,Munster Emerging,Megan Walsh,250-999,17500,Clean,None,None,0,0,No,Verified,Not required
+A0360,Sterling Learning Trust,Sterling Academies Trust,Education,Corporate,United Kingdom,Scotland,T023,Scotland Named,Oliver Grant,250-999,17400,Clean,None,None,0,0,No,Verified,Not required
+A0361,Sterling Payments,Sterling Financial Group,Financial & Retail,Mid-Market,Ireland,Dublin,T033,Dublin Named,Sophie Reed,"1,000-4,999",28000,Clean,None,None,0,0,Yes,Verified,Not required
+A0362,Sterling Sixth Form,Sterling Learning Group,Education,Mid-Market,United Kingdom,London,T001,London Core,Chloe Evans,50-249,24000,Clean,None,None,0,0,No,Verified,Not required
+A0363,Summit Card Services,Summit Commerce Group plc,Financial & Retail,Corporate,United Kingdom,Wales,T027,Wales Growth,Oliver Grant,250-999,17700,Clean,None,None,0,0,No,Verified,Not required
+A0364,Summit College,Summit Learning Group,Education,Mid-Market,Ireland,Dublin,T035,Dublin Install,Megan Walsh,"1,000-4,999",8400,Clean,None,None,0,0,Yes,Verified,Not required
+A0365,Summit Health Partnership,Summit Regional Authority,Public Sector,Mid-Market,United Kingdom,South East,T006,South East Core,Jamie Patel,250-999,27900,Clean,None,None,0,0,No,Verified,Not required
+A0366,Summit Learning Trust,Summit Education Holdings,Education,Mid-Market,United Kingdom,South East,T007,South East Growth,Laura Bennett,250-999,8500,Clean,None,None,0,0,No,Verified,Not required
+A0367,Summit Lending,Summit Retail Holdings,Financial & Retail,Enterprise,United Kingdom,North,T016,North Core,Daniel Brooks,250-999,10600,Clean,None,None,0,0,No,Verified,Not required
+A0368,Summit Outlets,Summit Retail Holdings,Financial & Retail,Corporate,United Kingdom,North,T016,North Core,Daniel Brooks,"1,000-4,999",22000,Clean,None,None,0,0,No,Verified,Not required
+A0369,Summit Water,Summit Public Services Group,Public Sector,Corporate,United Kingdom,North,T016,North Core,Sophie Reed,250-999,4700,Clean,None,None,0,0,No,Verified,Not required
+A0370,Tamar Academy Trust,Tamar Education Holdings,Education,Mid-Market,Ireland,Munster,T036,Munster Core,Sophie Reed,250-999,15100,Clean,None,None,0,0,No,Verified,Not required
+A0371,Tamar Capital,Tamar Financial Group,Financial & Retail,Corporate,Ireland,Dublin,T033,Dublin Named,Oliver Grant,250-999,18100,Clean,None,None,0,0,Yes,Verified,Not required
+A0372,Tamar Community Trust,Tamar Regional Authority,Public Sector,Strategic,Ireland,Dublin,T031,Dublin Core,Daniel Brooks,50-249,19700,Clean,None,None,0,0,No,Verified,Not required
+A0373,Tamar Housing,Tamar Civic Partnership,Public Sector,Strategic,Ireland,Dublin,T034,Dublin Emerging,Sophie Reed,50-249,5800,Clean,None,None,0,0,No,Verified,Not required
+A0374,Tamar Outlets,Tamar Retail Holdings,Financial & Retail,Mid-Market,United Kingdom,North,T017,North Growth,Hannah Cole,"1,000-4,999",24000,Clean,None,None,0,0,No,Verified,Not required
+A0375,Tamar Training,Tamar Education Holdings,Education,Mid-Market,United Kingdom,Wales,T028,Wales Named,Marcus Flynn,50-249,23300,Clean,None,None,0,0,Yes,Verified,Not required
+A0376,Thornbury Insurance,Thornbury Banking Group,Financial & Retail,Mid-Market,United Kingdom,Midlands,T014,Midlands Emerging,Megan Walsh,"1,000-4,999",12300,Clean,None,None,0,0,Yes,Verified,Not required
+A0377,Thornbury Retail,Thornbury Capital Partners,Financial & Retail,Corporate,United Kingdom,London,T002,London Growth,Sophie Reed,50-249,30000,Clean,None,None,0,0,Yes,Verified,Not required
+A0378,Thornbury Sixth Form,Thornbury Academies Trust,Education,Corporate,United Kingdom,Midlands,T012,Midlands Growth,Ryan Cooper,50-249,8100,Clean,None,None,0,0,Yes,Verified,Not required
+A0379,Thornbury Trading,Thornbury Banking Group,Financial & Retail,Enterprise,Ireland,Munster,T036,Munster Core,Jamie Patel,250-999,29800,Clean,None,None,0,0,No,Verified,Not required
+A0380,Thornbury Wealth,Thornbury Commerce Group plc,Financial & Retail,Enterprise,Ireland,Munster,T038,Munster Named,Priya Shah,50-249,12100,Clean,None,None,0,0,Yes,Verified,Not required
+A0381,Ulster Brokers,Ulster Financial Group,Financial & Retail,Corporate,United Kingdom,Scotland,T021,Scotland Core,Priya Shah,250-999,8000,Clean,None,None,0,0,No,Verified,Not required
+A0382,Ulster Card Services,Ulster Retail Group plc,Financial & Retail,Mid-Market,Ireland,Munster,T037,Munster Growth,Oliver Grant,250-999,28800,Clean,None,None,0,0,No,Verified,Not required
+A0383,Ulster Community Trust,Ulster Government Services,Public Sector,Mid-Market,United Kingdom,Wales,T029,Wales Emerging,Chloe Evans,50-249,25600,Clean,None,None,0,0,No,Verified,Not required
+A0384,Ulster Council Services,Ulster Public Services Group,Public Sector,Corporate,Ireland,Munster,T037,Munster Growth,Hannah Cole,50-249,9700,Clean,None,None,0,0,Yes,Verified,Not required
+A0385,Ulster Fire Service,Ulster Civic Partnership,Public Sector,Enterprise,United Kingdom,Midlands,T011,Midlands Core,Sophie Reed,250-999,23700,Clean,None,None,0,0,No,Verified,Not required
+A0386,Ulster Sixth Form,Ulster Education Holdings,Education,Mid-Market,United Kingdom,London,T001,London Core,Laura Bennett,50-249,9300,Clean,None,None,0,0,No,Verified,Not required
+A0387,Vale Community Trust,Vale Regional Authority,Public Sector,Corporate,United Kingdom,London,T003,London Named,Chloe Evans,"1,000-4,999",6400,Clean,None,None,0,0,No,Verified,Not required
+A0388,Vale Lending,Vale Banking Group,Financial & Retail,Strategic,United Kingdom,Wales,T029,Wales Emerging,Jamie Patel,250-999,13700,Clean,None,None,0,0,No,Verified,Not required
+A0389,Vale Transport,Vale Public Services Group,Public Sector,Corporate,Ireland,Dublin,T035,Dublin Install,Daniel Brooks,250-999,26600,Clean,None,None,0,0,No,Verified,Not required
+A0390,Wessex Health Partnership,Wessex Public Services Group,Public Sector,Mid-Market,United Kingdom,Wales,T028,Wales Named,Chloe Evans,"1,000-4,999",16300,Clean,None,None,0,0,No,Verified,Not required
+A0391,Wessex Housing,Wessex Regional Authority,Public Sector,Strategic,United Kingdom,London,T004,London Emerging,Laura Bennett,250-999,27100,Clean,None,None,0,0,No,Verified,Not required
+A0392,Westfield Insurance,Westfield Commerce Group plc,Financial & Retail,Mid-Market,United Kingdom,London,T003,London Named,Megan Walsh,250-999,29900,Clean,None,None,0,0,Yes,Verified,Not required
+A0393,Westfield Nursery Group,Westfield Academies Trust,Education,Mid-Market,United Kingdom,Scotland,T021,Scotland Core,Daniel Brooks,250-999,6300,Clean,None,None,0,0,No,Verified,Not required
+A0394,Westfield Payments,Westfield Retail Group plc,Financial & Retail,Enterprise,United Kingdom,London,T002,London Growth,Daniel Brooks,50-249,25800,Clean,None,None,0,0,No,Verified,Not required
+A0395,Westfield Wealth,Westfield Banking Group,Financial & Retail,Mid-Market,Ireland,Munster,T039,Munster Emerging,Jamie Patel,"1,000-4,999",26200,Clean,None,None,0,0,Yes,Verified,Not required
+A0396,Yarrow Capital,Yarrow Retail Holdings,Financial & Retail,Enterprise,United Kingdom,Midlands,T013,Midlands Named,Aisha Khan,250-999,26200,Clean,None,None,0,0,Yes,Verified,Not required
+A0397,Yarrow Housing,Yarrow Regional Authority,Public Sector,Mid-Market,United Kingdom,South East,T008,South East Named,Laura Bennett,50-249,15500,Clean,None,None,0,0,No,Verified,Not required
+A0398,Yarrow Stores,Yarrow Retail Holdings,Financial & Retail,Enterprise,United Kingdom,Wales,T026,Wales Core,Priya Shah,250-999,9400,Clean,None,None,0,0,No,Verified,Not required
+A0399,Yarrow Training,Yarrow Learning Group,Education,Corporate,United Kingdom,Wales,T029,Wales Emerging,Laura Bennett,50-249,24800,Clean,None,None,0,0,Yes,Verified,Not required
+A0400,Yarrow Water,Yarrow Public Services Group,Public Sector,Corporate,Ireland,Dublin,T032,Dublin Growth,Jamie Patel,"1,000-4,999",9200,Clean,None,None,0,0,No,Verified,Not required

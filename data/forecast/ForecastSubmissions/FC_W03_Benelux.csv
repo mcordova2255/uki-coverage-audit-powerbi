@@ -1,0 +1,4 @@
+market,fiscal_week,week_number,week_ending,product_line,forecast_units,forecast_revenue
+Benelux,W03,3,2026-08-21,Desktop Workstation,36,86400
+Benelux,W03,3,2026-08-21,Mobile Workstation,53,111300
+Benelux,W03,3,2026-08-21,Workstation Displays,90,49500

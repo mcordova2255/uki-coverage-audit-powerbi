@@ -1,0 +1,4 @@
+market,fiscal_week,week_number,week_ending,product_line,forecast_units,forecast_revenue
+DACH,W06,6,2026-09-11,Desktop Workstation,104,249600
+DACH,W06,6,2026-09-11,Mobile Workstation,190,399000
+DACH,W06,6,2026-09-11,Workstation Displays,256,140800
